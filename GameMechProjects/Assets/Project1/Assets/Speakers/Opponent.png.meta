@@ -1,0 +1,1095 @@
+fileFormatVersion: 2
+guid: fabf032347af8cb47a13e69aacc295b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7968272381400671866
+    second: Opponent_0
+  - first:
+      213: 1809125561693839739
+    second: Opponent_1
+  - first:
+      213: 3246994094554828268
+    second: Opponent_2
+  - first:
+      213: 8075397151438901506
+    second: Opponent_3
+  - first:
+      213: 2854521357239043353
+    second: Opponent_4
+  - first:
+      213: 1821187198401496426
+    second: Opponent_5
+  - first:
+      213: 6717143486747328134
+    second: Opponent_6
+  - first:
+      213: 2479265012760933683
+    second: Opponent_7
+  - first:
+      213: -1118762242879953535
+    second: Opponent_8
+  - first:
+      213: 6825305087082141121
+    second: Opponent_9
+  - first:
+      213: -6393901307951769980
+    second: Opponent_10
+  - first:
+      213: -137060023251311818
+    second: Opponent_11
+  - first:
+      213: 7429287261822326827
+    second: Opponent_12
+  - first:
+      213: 3792062485135275416
+    second: Opponent_13
+  - first:
+      213: 5933787168545544621
+    second: Opponent_14
+  - first:
+      213: 8061704960356880668
+    second: Opponent_15
+  - first:
+      213: -6195038855652211197
+    second: Opponent_16
+  - first:
+      213: -1755526048420602616
+    second: Opponent_17
+  - first:
+      213: -5305994940334984389
+    second: Opponent_18
+  - first:
+      213: 6798131640197761026
+    second: Opponent_19
+  - first:
+      213: 7033316485990876707
+    second: Opponent_20
+  - first:
+      213: 2558538120911138611
+    second: Opponent_21
+  - first:
+      213: -7668908611102054741
+    second: Opponent_22
+  - first:
+      213: 4151733443527650378
+    second: Opponent_23
+  - first:
+      213: -4612598644586153699
+    second: Opponent_24
+  - first:
+      213: -510550973192909920
+    second: Opponent_25
+  - first:
+      213: -5536928211970271579
+    second: Opponent_26
+  - first:
+      213: 1400846179981647149
+    second: Opponent_27
+  - first:
+      213: -3164625618598166517
+    second: Opponent_28
+  - first:
+      213: -644114588522119067
+    second: Opponent_29
+  - first:
+      213: -6887388455371310554
+    second: Opponent_30
+  - first:
+      213: -4389209758470791361
+    second: Opponent_31
+  - first:
+      213: -8358995042398794711
+    second: Opponent_32
+  - first:
+      213: 7211216530852105373
+    second: Opponent_33
+  - first:
+      213: -6809631528666927574
+    second: Opponent_34
+  - first:
+      213: -6588404789335768982
+    second: Opponent_35
+  - first:
+      213: 317451603783109540
+    second: Opponent_36
+  - first:
+      213: 4246793823346145030
+    second: Opponent_37
+  - first:
+      213: -390815360292117083
+    second: Opponent_38
+  - first:
+      213: 8279039246047187621
+    second: Opponent_39
+  - first:
+      213: -6845845279058455448
+    second: Opponent_40
+  - first:
+      213: -1308286040829247676
+    second: Opponent_41
+  - first:
+      213: -5214167908027515319
+    second: Opponent_42
+  - first:
+      213: 1517305150244230463
+    second: Opponent_43
+  - first:
+      213: 692697590577464779
+    second: Opponent_44
+  - first:
+      213: -5560194056395890331
+    second: Opponent_45
+  - first:
+      213: 2505958154868785209
+    second: Opponent_46
+  - first:
+      213: 8933202801480148240
+    second: Opponent_47
+  - first:
+      213: 7327440749566970329
+    second: Opponent_48
+  - first:
+      213: -4674258956414423913
+    second: Opponent_49
+  - first:
+      213: -4477326761889498875
+    second: Opponent_50
+  - first:
+      213: -1019488604009952370
+    second: Opponent_51
+  - first:
+      213: -1463002625214673839
+    second: Opponent_52
+  - first:
+      213: -198546046201734821
+    second: Opponent_53
+  - first:
+      213: -511394277888097547
+    second: Opponent_54
+  - first:
+      213: -7531458460303969175
+    second: Opponent_55
+  - first:
+      213: 7119335078837786339
+    second: Opponent_56
+  - first:
+      213: 1591950632639816347
+    second: Opponent_57
+  - first:
+      213: -7749866737759918515
+    second: Opponent_58
+  - first:
+      213: 2774162288942163461
+    second: Opponent_59
+  - first:
+      213: 4981377369431728496
+    second: Opponent_60
+  - first:
+      213: -3754671191904428188
+    second: Opponent_61
+  - first:
+      213: 5206823985391812387
+    second: Opponent_62
+  - first:
+      213: 6828652168846510059
+    second: Opponent_63
+  - first:
+      213: 7019236041904946379
+    second: Opponent_64
+  - first:
+      213: 4260550062971834488
+    second: Opponent_65
+  - first:
+      213: 7174793639729231673
+    second: Opponent_66
+  - first:
+      213: 854919014603262142
+    second: Opponent_67
+  - first:
+      213: 4379664494505084526
+    second: Opponent_68
+  - first:
+      213: -3112137426014978392
+    second: Opponent_69
+  - first:
+      213: -489298138457816300
+    second: Opponent_70
+  - first:
+      213: 931926815390170117
+    second: Opponent_71
+  - first:
+      213: -4955778133566351332
+    second: Opponent_72
+  - first:
+      213: -5959267846842821316
+    second: Opponent_73
+  - first:
+      213: 770469052369335700
+    second: Opponent_74
+  - first:
+      213: 6193406446835450129
+    second: Opponent_75
+  - first:
+      213: 5949427359671921972
+    second: Opponent_76
+  - first:
+      213: -5078173176511294525
+    second: Opponent_77
+  - first:
+      213: -5388124392263676425
+    second: Opponent_78
+  - first:
+      213: -8227085014059110924
+    second: Opponent_79
+  - first:
+      213: 2312434772884016495
+    second: Opponent_80
+  - first:
+      213: 3524249941680667768
+    second: Opponent_81
+  - first:
+      213: -7928596603325870540
+    second: Opponent_82
+  - first:
+      213: -8642368858043497781
+    second: Opponent_83
+  - first:
+      213: 3760897586173943388
+    second: Opponent_84
+  - first:
+      213: -4021298568597114649
+    second: Opponent_85
+  - first:
+      213: 2055643841802473246
+    second: Opponent_86
+  - first:
+      213: -6759197254038650761
+    second: Opponent_87
+  - first:
+      213: -1318328744153676429
+    second: Opponent_88
+  - first:
+      213: -5298342639455567172
+    second: Opponent_89
+  - first:
+      213: 5055123701980615443
+    second: Opponent_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Opponent_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7661fe538df49e60800000000000000
+      internalID: 7968272381400671866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7127dafc1e4b1910800000000000000
+      internalID: 1809125561693839739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced4bb9fce3af0d20800000000000000
+      internalID: 3246994094554828268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20197b78ce2911070800000000000000
+      internalID: 8075397151438901506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915cffdec0c4d9720800000000000000
+      internalID: 2854521357239043353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65c53e9b18264910800000000000000
+      internalID: 1821187198401496426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e37e88966183d50800000000000000
+      internalID: 6717143486747328134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3357ba5b46e186220800000000000000
+      internalID: 2479265012760933683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_8
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1856505eaab5970f0800000000000000
+      internalID: -1118762242879953535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_9
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5923f80da58be50800000000000000
+      internalID: 6825305087082141121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_10
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48611a203ac4447a0800000000000000
+      internalID: -6393901307951769980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_11
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633e23192a0191ef0800000000000000
+      internalID: -137060023251311818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_12
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28114f07612a1760800000000000000
+      internalID: 7429287261822326827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_13
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895b2903dbc10a430800000000000000
+      internalID: 3792062485135275416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_14
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da99de1cdfb095250800000000000000
+      internalID: 5933787168545544621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_15
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11931ed2fde0ef60800000000000000
+      internalID: 8061704960356880668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_16
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3068b17cbfcc60aa0800000000000000
+      internalID: -6195038855652211197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_17
+      rect:
+        serializedVersion: 2
+        x: 8704
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dd1f13c5e13a7e0800000000000000
+      internalID: -1755526048420602616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_18
+      rect:
+        serializedVersion: 2
+        x: 9216
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b333051d6b15d56b0800000000000000
+      internalID: -5305994940334984389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_19
+      rect:
+        serializedVersion: 2
+        x: 9728
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208c45e65b0d75e50800000000000000
+      internalID: 6798131640197761026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_20
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3268264741c5b9160800000000000000
+      internalID: 7033316485990876707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_21
+      rect:
+        serializedVersion: 2
+        x: 10752
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f24318dd0c18320800000000000000
+      internalID: 2558538120911138611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_22
+      rect:
+        serializedVersion: 2
+        x: 11264
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6e354ff30929590800000000000000
+      internalID: -7668908611102054741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_23
+      rect:
+        serializedVersion: 2
+        x: 11776
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c239fe19bed9930800000000000000
+      internalID: 4151733443527650378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_24
+      rect:
+        serializedVersion: 2
+        x: 12288
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d197ef9a8f1ccffb0800000000000000
+      internalID: -4612598644586153699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_25
+      rect:
+        serializedVersion: 2
+        x: 12800
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab4b1b48982ae8f0800000000000000
+      internalID: -510550973192909920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_26
+      rect:
+        serializedVersion: 2
+        x: 13312
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a65caa8021e823b0800000000000000
+      internalID: -5536928211970271579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_27
+      rect:
+        serializedVersion: 2
+        x: 13824
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dd4cebd2ec07310800000000000000
+      internalID: 1400846179981647149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_28
+      rect:
+        serializedVersion: 2
+        x: 14336
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b000b5c44cdf414d0800000000000000
+      internalID: -3164625618598166517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Opponent_29
+      rect:
+        serializedVersion: 2
+        x: 14848
+        y: 0
+        width: 512
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5600e74c135af07f0800000000000000
+      internalID: -644114588522119067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cb041cc57d6eea84fa39cb7379717826
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":512.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Opponent_0: 7968272381400671866
+      Opponent_1: 1809125561693839739
+      Opponent_10: -6393901307951769980
+      Opponent_11: -137060023251311818
+      Opponent_12: 7429287261822326827
+      Opponent_13: 3792062485135275416
+      Opponent_14: 5933787168545544621
+      Opponent_15: 8061704960356880668
+      Opponent_16: -6195038855652211197
+      Opponent_17: -1755526048420602616
+      Opponent_18: -5305994940334984389
+      Opponent_19: 6798131640197761026
+      Opponent_2: 3246994094554828268
+      Opponent_20: 7033316485990876707
+      Opponent_21: 2558538120911138611
+      Opponent_22: -7668908611102054741
+      Opponent_23: 4151733443527650378
+      Opponent_24: -4612598644586153699
+      Opponent_25: -510550973192909920
+      Opponent_26: -5536928211970271579
+      Opponent_27: 1400846179981647149
+      Opponent_28: -3164625618598166517
+      Opponent_29: -644114588522119067
+      Opponent_3: 8075397151438901506
+      Opponent_4: 2854521357239043353
+      Opponent_5: 1821187198401496426
+      Opponent_6: 6717143486747328134
+      Opponent_7: 2479265012760933683
+      Opponent_8: -1118762242879953535
+      Opponent_9: 6825305087082141121
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
