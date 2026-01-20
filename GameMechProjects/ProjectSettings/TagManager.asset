@@ -8,6 +8,8 @@ TagManager:
   - Enemy
   - Tongue
   - Ground
+  - Flies
+  - Ultimate
   layers:
   - Default
   - TransparentFX
