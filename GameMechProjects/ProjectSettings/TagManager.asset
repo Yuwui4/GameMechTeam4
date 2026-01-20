@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Water
   - Enemy
+  - Tongue
   layers:
   - Default
   - TransparentFX
