@@ -10,6 +10,7 @@ TagManager:
   - Ground
   - Flies
   - Ultimate
+  - Health
   layers:
   - Default
   - TransparentFX
