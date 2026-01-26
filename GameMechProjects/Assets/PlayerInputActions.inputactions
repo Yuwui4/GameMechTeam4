@@ -25,6 +25,24 @@
                     "initialStateCheck": false
                 },
                 {
+                    "name": "Up",
+                    "type": "Button",
+                    "id": "1481e487-b179-44a1-9a47-5a7fec714863",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Down",
+                    "type": "Button",
+                    "id": "202f4784-9e63-4863-b9ec-a09c857c8800",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
                     "name": "Jump",
                     "type": "Button",
                     "id": "0523906d-2b9e-4376-b270-3d9d45e7add9",
@@ -55,6 +73,15 @@
                     "name": "Mouse Move",
                     "type": "Value",
                     "id": "2918e3f1-e184-42fe-9af5-5a9f12e48e48",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "TopDownMove",
+                    "type": "Value",
+                    "id": "4a991112-dbf5-4989-b300-13500bcb4474",
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
@@ -127,6 +154,83 @@
                     "action": "Mouse Move",
                     "isComposite": false,
                     "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c8d3d010-5c62-42e4-be28-f6ca15e26668",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Up",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "450ff23c-a560-4e46-9de9-ce87f5b11436",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "WASD",
+                    "id": "58ddef42-8a7c-48d8-bee2-c35244ad2ba7",
+                    "path": "2DVector",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TopDownMove",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "up",
+                    "id": "73d5bc35-65f4-4ee9-b4fa-7f41dbdf5c06",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TopDownMove",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "down",
+                    "id": "a7872473-ba95-4897-a54b-5f5801c04b5f",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TopDownMove",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "left",
+                    "id": "9a057bab-cab5-4f3c-a1a8-b0f150ca303f",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TopDownMove",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "right",
+                    "id": "26b5aa60-c2c0-4f42-9f3f-ec9f5bb547ed",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TopDownMove",
+                    "isComposite": false,
+                    "isPartOfComposite": true
                 }
             ]
         }
