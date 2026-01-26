@@ -794,8 +794,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Unity.VisualScripting.Core::Unity.VisualScripting.Variables
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"SpriteRef","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Image,
+      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Sprite1","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Sprite,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Sprite2","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Sprite,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Sprite3","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Sprite,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 793049528}
+    - {fileID: 2935614189480664996, guid: 248dc773948558747a639c128163ccd4, type: 3}
+    - {fileID: -4251414283585572858, guid: f401744379691e34ebe7d282ac988558, type: 3}
+    - {fileID: 2945556523573182072, guid: b628fae0ee6bcf74187e949af25df618, type: 3}
 --- !u!1 &848452117
 GameObject:
   m_ObjectHideFlags: 0
@@ -989,7 +997,7 @@ Transform:
   m_GameObject: {fileID: 989962591}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.26049, y: 2.50747, z: 0}
+  m_LocalPosition: {x: 1.09, y: -1.71, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1040,8 +1048,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -529.4662, y: 419.73535}
-  m_SizeDelta: {x: 861.0676, y: 240.5292}
+  m_AnchoredPosition: {x: -480, y: 419.73535}
+  m_SizeDelta: {x: 960, y: 240.5292}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1052866384
 MonoBehaviour:
