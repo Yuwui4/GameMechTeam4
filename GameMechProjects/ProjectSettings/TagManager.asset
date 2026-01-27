@@ -11,6 +11,7 @@ TagManager:
   - Flies
   - Ultimate
   - Health
+  - Shop
   layers:
   - Default
   - TransparentFX
