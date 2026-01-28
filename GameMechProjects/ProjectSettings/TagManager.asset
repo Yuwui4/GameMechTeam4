@@ -12,6 +12,7 @@ TagManager:
   - Ultimate
   - Health
   - Shop
+  - Banana
   layers:
   - Default
   - TransparentFX
