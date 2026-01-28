@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: 21bd0ec7f07acd5439986385f7306871
+guid: c7cd555dd3e35f947869a8cf645d4f60
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5348674683130681243
-    second: monke_0
-  - first:
-      213: 5212522838049424280
-    second: monke_1
-  - first:
-      213: -7888160069911225253
-    second: monke_2
-  - first:
-      213: 3886813987571322194
-    second: monke_3
+      213: 1293815269721188995
+    second: sand_bg_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -122,89 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: monke_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 50
-        width: 50
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 568eed4d6b0b5c5b0800000000000000
-      internalID: -5348674683130681243
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: monke_1
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 50
-        width: 50
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8930c8177e9965840800000000000000
-      internalID: 5212522838049424280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: monke_2
+      name: sand_bg_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 50
-        height: 50
+        width: 300
+        height: 300
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b5c558da530a78290800000000000000
-      internalID: -7888160069911225253
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: monke_3
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 0
-        width: 50
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 25d453d7abcb0f530800000000000000
-      internalID: 3886813987571322194
+      spriteID: 38a25b4022e84f110800000000000000
+      internalID: 1293815269721188995
       vertices: []
       indices: 
       edges: []
@@ -213,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 212cc7f860557a24c9f1fe81044ab098
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -221,14 +146,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":2.0},"gridSpriteSize":{"x":50.0,"y":50.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      monke_0: -5348674683130681243
-      monke_1: 5212522838049424280
-      monke_2: -7888160069911225253
-      monke_3: 3886813987571322194
+      sand_bg_0: 1293815269721188995
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
