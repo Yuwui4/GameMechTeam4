@@ -16,6 +16,7 @@ TagManager:
   - Coconut
   - vertWall
   - horizwall
+  - Weapon
   layers:
   - Default
   - TransparentFX
