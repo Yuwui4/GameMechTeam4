@@ -354,7 +354,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_MaskInteraction: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 0.81761, g: 0.8110784, b: 0.6710572, a: 1}
@@ -1040,7 +1040,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 1293815269721188995, guid: c7cd555dd3e35f947869a8cf645d4f60, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1686,6 +1686,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 767266283894285379, guid: 3584d376571a2b948afcfaad3d1a8ff7, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569204839099461678, guid: 3584d376571a2b948afcfaad3d1a8ff7, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3459421236330549522, guid: 3584d376571a2b948afcfaad3d1a8ff7, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5.77
@@ -1760,6 +1768,10 @@ PrefabInstance:
     - target: {fileID: 6154193763859209839, guid: 3584d376571a2b948afcfaad3d1a8ff7, type: 3}
       propertyPath: m_Name
       value: Shop
+      objectReference: {fileID: 0}
+    - target: {fileID: 6154193763859209839, guid: 3584d376571a2b948afcfaad3d1a8ff7, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
