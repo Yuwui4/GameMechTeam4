@@ -1777,7 +1777,7 @@ GameObject:
   - component: {fileID: 460806954}
   m_Layer: 0
   m_Name: ImplosionDevice
-  m_TagString: Untagged
+  m_TagString: Weapon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1912,8 +1912,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_Radius: 8
+  m_Offset: {x: -0.0116830645, y: 0.1265437}
+  m_Radius: 7.8811917
 --- !u!1 &476657178
 GameObject:
   m_ObjectHideFlags: 0
@@ -2488,8 +2488,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.001096999, y: -0.10858192}
-  m_Radius: 0.40096307
+  m_Offset: {x: -0.006742297, y: -0.14020614}
+  m_Radius: 0.4147627
 --- !u!114 &613677793
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5663,7 +5663,7 @@ MonoBehaviour:
   m_ActionEvents: []
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
-  m_DefaultActionMap: df70fa95-8a34-4494-b137-73ab6b9c7d37
+  m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
 --- !u!1 &2064814448
