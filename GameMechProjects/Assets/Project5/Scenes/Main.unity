@@ -933,7 +933,7 @@ MonoBehaviour:
     m_HighlightedSprite: {fileID: 21300000, guid: b7165927c458aaa47819ba0e3428530d, type: 3}
     m_PressedSprite: {fileID: 21300000, guid: e322e5ebb0d591148a5fc3fa3ebef6e0, type: 3}
     m_SelectedSprite: {fileID: 0}
-    m_DisabledSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 21300000, guid: e322e5ebb0d591148a5fc3fa3ebef6e0, type: 3}
   m_AnimationTriggers:
     m_NormalTrigger: Normal
     m_HighlightedTrigger: Highlighted
@@ -1657,8 +1657,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 73.670006, y: -9}
-  m_SizeDelta: {x: 1029.37, y: 714.5}
+  m_AnchoredPosition: {x: 73.670006, y: -10.68}
+  m_SizeDelta: {x: 1029.37, y: 717.85}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &458585936
 MonoBehaviour:
@@ -1681,8 +1681,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Itsy Bitsy spider here\n\nDefend us from the onslaught of color stealer
-    bugs!\n\nYou don't know how to mix colors? \n\nJust remeber elementary school
-    where you met me! :O\n\nHere's an example!! \n"
+    sparkle bugs!\n\nMatch their color to give them what they want so they won't
+    hurt us.\n\nYou don't know how to mix colors? \nJust remeber elementary school
+    where you met me! :O\n\n\nHere's an example!! \n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 844181c220aa9984bb0486059164a0fe, type: 2}
   m_sharedMaterial: {fileID: -2348375485751336237, guid: 844181c220aa9984bb0486059164a0fe, type: 2}
@@ -1709,8 +1710,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 58
-  m_fontSizeBase: 58
+  m_fontSize: 51
+  m_fontSizeBase: 51
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2112,7 +2113,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 5f08f2e2eaf4886459bb2bf2feae2b31, type: 2}
+    - {fileID: 11400000, guid: a85e9d104e52c6b48978e629d44888f1, type: 2}
 --- !u!114 &560502992
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2127,19 +2128,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.VisualScripting.Core::Unity.VisualScripting.Variables
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"ColorMixedVisual","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ChangeColorButton","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"RedButton","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"BlueButton","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"YellowButton","value":{"$content":4,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ColorWaveAnim","value":{"$content":5,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Animator,
-      UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ColorWaveVisual","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ColorWaveAnim","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Animator,
+      UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ChangeColorButton","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
+      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"RedButton","value":{"$content":4,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
+      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"BlueButton","value":{"$content":5,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
+      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"YellowButton","value":{"$content":6,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
+      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"WhiteButton","value":{"$content":7,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
+      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 496032389}
+    - {fileID: 460806949}
+    - {fileID: 460806951}
     - {fileID: 366131661}
     - {fileID: 1154742490}
     - {fileID: 1492893060}
     - {fileID: 1347965162}
-    - {fileID: 460806951}
+    - {fileID: 184813247}
 --- !u!4 &560502993
 Transform:
   m_ObjectHideFlags: 0
@@ -3881,7 +3886,7 @@ MonoBehaviour:
     m_HighlightedSprite: {fileID: 21300000, guid: b7165927c458aaa47819ba0e3428530d, type: 3}
     m_PressedSprite: {fileID: 21300000, guid: e322e5ebb0d591148a5fc3fa3ebef6e0, type: 3}
     m_SelectedSprite: {fileID: 0}
-    m_DisabledSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 21300000, guid: e322e5ebb0d591148a5fc3fa3ebef6e0, type: 3}
   m_AnimationTriggers:
     m_NormalTrigger: Normal
     m_HighlightedTrigger: Highlighted
@@ -4552,7 +4557,7 @@ MonoBehaviour:
     m_HighlightedSprite: {fileID: 21300000, guid: b7165927c458aaa47819ba0e3428530d, type: 3}
     m_PressedSprite: {fileID: 21300000, guid: e322e5ebb0d591148a5fc3fa3ebef6e0, type: 3}
     m_SelectedSprite: {fileID: 0}
-    m_DisabledSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 21300000, guid: e322e5ebb0d591148a5fc3fa3ebef6e0, type: 3}
   m_AnimationTriggers:
     m_NormalTrigger: Normal
     m_HighlightedTrigger: Highlighted
@@ -4823,7 +4828,7 @@ MonoBehaviour:
     m_HighlightedSprite: {fileID: 21300000, guid: b7165927c458aaa47819ba0e3428530d, type: 3}
     m_PressedSprite: {fileID: 21300000, guid: e322e5ebb0d591148a5fc3fa3ebef6e0, type: 3}
     m_SelectedSprite: {fileID: 0}
-    m_DisabledSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 21300000, guid: e322e5ebb0d591148a5fc3fa3ebef6e0, type: 3}
   m_AnimationTriggers:
     m_NormalTrigger: Normal
     m_HighlightedTrigger: Highlighted
