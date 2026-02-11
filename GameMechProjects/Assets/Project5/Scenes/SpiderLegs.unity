@@ -816,7 +816,7 @@ MonoBehaviour:
   m_SpriteState:
     m_HighlightedSprite: {fileID: 21300000, guid: b7165927c458aaa47819ba0e3428530d, type: 3}
     m_PressedSprite: {fileID: 21300000, guid: e322e5ebb0d591148a5fc3fa3ebef6e0, type: 3}
-    m_SelectedSprite: {fileID: 21300000, guid: e322e5ebb0d591148a5fc3fa3ebef6e0, type: 3}
+    m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 21300000, guid: e322e5ebb0d591148a5fc3fa3ebef6e0, type: 3}
   m_AnimationTriggers:
     m_NormalTrigger: Normal
@@ -2307,21 +2307,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.VisualScripting.Core::Unity.VisualScripting.Variables
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"ColorMixedVisual","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ChangeColorButton","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"RedButton","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"BlueButton","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"YellowButton","value":{"$content":4,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"WhiteButton","value":{"$content":5,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ColorWaveAnim","value":{"$content":6,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Animator,
-      UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ColorWaveVisual","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ColorWaveAnim","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Animator,
+      UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ChangeColorButton","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
+      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"RedButton","value":{"$content":4,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
+      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"BlueButton","value":{"$content":5,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
+      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"YellowButton","value":{"$content":6,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
+      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"WhiteButton","value":{"$content":7,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
+      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 496032389}
+    - {fileID: 460806949}
+    - {fileID: 460806951}
     - {fileID: 366131661}
     - {fileID: 1154742490}
     - {fileID: 1492893060}
     - {fileID: 1347965162}
     - {fileID: 184813247}
-    - {fileID: 460806951}
 --- !u!4 &560502993
 Transform:
   m_ObjectHideFlags: 0
@@ -3647,7 +3649,7 @@ MonoBehaviour:
   m_SpriteState:
     m_HighlightedSprite: {fileID: 21300000, guid: b7165927c458aaa47819ba0e3428530d, type: 3}
     m_PressedSprite: {fileID: 21300000, guid: e322e5ebb0d591148a5fc3fa3ebef6e0, type: 3}
-    m_SelectedSprite: {fileID: 21300000, guid: e322e5ebb0d591148a5fc3fa3ebef6e0, type: 3}
+    m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 21300000, guid: e322e5ebb0d591148a5fc3fa3ebef6e0, type: 3}
   m_AnimationTriggers:
     m_NormalTrigger: Normal
@@ -4066,7 +4068,7 @@ MonoBehaviour:
   m_SpriteState:
     m_HighlightedSprite: {fileID: 21300000, guid: b7165927c458aaa47819ba0e3428530d, type: 3}
     m_PressedSprite: {fileID: 21300000, guid: e322e5ebb0d591148a5fc3fa3ebef6e0, type: 3}
-    m_SelectedSprite: {fileID: 21300000, guid: e322e5ebb0d591148a5fc3fa3ebef6e0, type: 3}
+    m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 21300000, guid: e322e5ebb0d591148a5fc3fa3ebef6e0, type: 3}
   m_AnimationTriggers:
     m_NormalTrigger: Normal
@@ -4462,7 +4464,7 @@ MonoBehaviour:
   m_SpriteState:
     m_HighlightedSprite: {fileID: 21300000, guid: b7165927c458aaa47819ba0e3428530d, type: 3}
     m_PressedSprite: {fileID: 21300000, guid: e322e5ebb0d591148a5fc3fa3ebef6e0, type: 3}
-    m_SelectedSprite: {fileID: 21300000, guid: e322e5ebb0d591148a5fc3fa3ebef6e0, type: 3}
+    m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 21300000, guid: e322e5ebb0d591148a5fc3fa3ebef6e0, type: 3}
   m_AnimationTriggers:
     m_NormalTrigger: Normal
