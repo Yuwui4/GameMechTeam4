@@ -17,6 +17,10 @@ TagManager:
   - vertWall
   - horizwall
   - Weapon
+  - Cam1
+  - Cam2
+  - Cam3
+  - Cam4
   layers:
   - Default
   - TransparentFX
