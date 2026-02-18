@@ -160,7 +160,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_MaskInteraction: 0
   m_Sprite: {fileID: -6688429619563507101, guid: cdf7a8a21b1170c4e87bb22d7fbd1b5c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -251,7 +251,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_MaskInteraction: 0
   m_Sprite: {fileID: -6688429619563507101, guid: cdf7a8a21b1170c4e87bb22d7fbd1b5c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -273,6 +273,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2585270355044561888}
   - component: {fileID: 9215798639150117246}
+  - component: {fileID: 7544138911309278490}
   m_Layer: 0
   m_Name: PineTree1_0
   m_TagString: Untagged
@@ -354,3 +355,147 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 1
+--- !u!114 &7544138911309278490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6732141574547766996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7db70e0ea77f5ac47a8f4565a9406397, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.2D.Runtime::UnityEngine.Rendering.Universal.ShadowCaster2D
+  m_ShadowGroup: 0
+  m_Priority: 0
+  m_ComponentVersion: 5
+  m_HasRenderer: 1
+  m_UseRendererSilhouette: 1
+  m_CastsShadows: 1
+  m_SelfShadows: 0
+  m_AlphaCutoff: 0.1
+  m_ApplyToSortingLayers: 00000000
+  m_ShapePath:
+  - {x: -0.4117813, y: 0.4606607, z: 0}
+  - {x: -0.32710648, y: 0.46270335, z: 0}
+  - {x: -0.3283291, y: 0.789112, z: 0}
+  - {x: -0.82222176, y: 0.79033446, z: 0}
+  - {x: -0.8222227, y: 0.8734647, z: 0}
+  - {x: -0.9884825, y: 0.87468725, z: 0}
+  - {x: -0.99581814, y: 0.961485, z: 0}
+  - {x: -1.1608562, y: 0.95781755, z: 0}
+  - {x: -1.1657467, y: 1.1326356, z: 0}
+  - {x: -1.0765038, y: 1.1363031, z: 0}
+  - {x: -1.0765038, y: 1.2096533, z: 0}
+  - {x: -0.9945955, y: 1.2157658, z: 0}
+  - {x: -0.99215126, y: 1.2927836, z: 0}
+  - {x: -0.9090204, y: 1.2964511, z: 0}
+  - {x: -0.91146755, y: 1.5385069, z: 0}
+  - {x: -0.99459934, y: 1.5385069, z: 0}
+  - {x: -0.9884863, y: 1.7096574, z: 0}
+  - {x: -0.8283386, y: 1.71577, z: 0}
+  - {x: -0.827116, y: 1.8771405, z: 0}
+  - {x: -0.7415409, y: 1.880808, z: 0}
+  - {x: -0.7488756, y: 1.9553807, z: 0}
+  - {x: -0.9126911, y: 1.9553807, z: 0}
+  - {x: -0.9078016, y: 2.1228638, z: 0}
+  - {x: -0.8234482, y: 2.1289763, z: 0}
+  - {x: -0.8283386, y: 2.210884, z: 0}
+  - {x: -0.7390957, y: 2.220664, z: 0}
+  - {x: -0.7415409, y: 2.2940145, z: 0}
+  - {x: -0.6608553, y: 2.2976818, z: 0}
+  - {x: -0.65963364, y: 2.3746996, z: 0}
+  - {x: -0.7427635, y: 2.371032, z: 0}
+  - {x: -0.74520874, y: 2.6228678, z: 0}
+  - {x: -0.65963364, y: 2.6289802, z: 0}
+  - {x: -0.6608553, y: 2.7096653, z: 0}
+  - {x: -0.57894707, y: 2.713333, z: 0}
+  - {x: -0.5752802, y: 2.7940183, z: 0}
+  - {x: -0.41024208, y: 2.7952406, z: 0}
+  - {x: -0.41146088, y: 2.954166, z: 0}
+  - {x: -0.49092484, y: 2.9553885, z: 0}
+  - {x: -0.49214745, y: 3.0409636, z: 0}
+  - {x: -0.41023827, y: 3.0446312, z: 0}
+  - {x: -0.40901375, y: 3.1253166, z: 0}
+  - {x: -0.32343864, y: 3.128984, z: 0}
+  - {x: -0.32343864, y: 3.213337, z: 0}
+  - {x: -0.2439766, y: 3.2108917, z: 0}
+  - {x: -0.23908615, y: 3.4590602, z: 0}
+  - {x: -0.1596241, y: 3.4615052, z: 0}
+  - {x: -0.1596241, y: 3.540968, z: 0}
+  - {x: -0.074048996, y: 3.5446355, z: 0}
+  - {x: -0.06759262, y: 3.625998, z: 0}
+  - {x: 0.0030841827, y: 3.6282315, z: 0}
+  - {x: 0.009132385, y: 3.4641967, z: 0}
+  - {x: 0.17887497, y: 3.4597297, z: 0}
+  - {x: 0.17887497, y: 3.3793247, z: 0}
+  - {x: 0.26151466, y: 3.3770912, z: 0}
+  - {x: 0.25704765, y: 3.2073474, z: 0}
+  - {x: 0.34191895, y: 3.2073474, z: 0}
+  - {x: 0.33968544, y: 3.1314094, z: 0}
+  - {x: 0.42232323, y: 3.1358762, z: 0}
+  - {x: 0.42455673, y: 3.044304, z: 0}
+  - {x: 0.59876823, y: 3.0420704, z: 0}
+  - {x: 0.5965347, y: 2.9571986, z: 0}
+  - {x: 0.51034355, y: 2.9529846, z: 0}
+  - {x: 0.5084858, y: 2.7950735, z: 0}
+  - {x: 0.5920868, y: 2.7950735, z: 0}
+  - {x: 0.59766006, y: 2.7133312, z: 0}
+  - {x: 0.6738281, y: 2.7114735, z: 0}
+  - {x: 0.67197037, y: 2.6334467, z: 0}
+  - {x: 0.8447437, y: 2.6260157, z: 0}
+  - {x: 0.8447437, y: 2.3714998, z: 0}
+  - {x: 0.7596226, y: 2.3761058, z: 0}
+  - {x: 0.7596226, y: 2.296873, z: 0}
+  - {x: 0.9248028, y: 2.29553, z: 0}
+  - {x: 0.9274883, y: 2.2082398, z: 0}
+  - {x: 1.0107498, y: 2.2095828, z: 0}
+  - {x: 1.0080643, y: 2.1249785, z: 0}
+  - {x: 0.9274883, y: 2.1209497, z: 0}
+  - {x: 0.92614555, y: 1.9678559, z: 0}
+  - {x: 1.0993843, y: 1.9597983, z: 0}
+  - {x: 1.0966969, y: 1.8845944, z: 0}
+  - {x: 1.1853313, y: 1.8765368, z: 0}
+  - {x: 1.1786156, y: 1.5394623, z: 0}
+  - {x: 0.92614555, y: 1.5408052, z: 0}
+  - {x: 0.92614555, y: 1.3769683, z: 0}
+  - {x: 1.0107498, y: 1.3756254, z: 0}
+  - {x: 1.0120926, y: 1.2937068, z: 0}
+  - {x: 1.1826439, y: 1.2923639, z: 0}
+  - {x: 1.1799583, y: 1.2131312, z: 0}
+  - {x: 1.2632198, y: 1.2091024, z: 0}
+  - {x: 1.2659073, y: 0.8720278, z: 0}
+  - {x: 1.0966969, y: 0.87471366, z: 0}
+  - {x: 1.0953541, y: 0.7860805, z: 0}
+  - {x: 0.34600258, y: 0.7914522, z: 0}
+  - {x: 0.3446598, y: 0.4637782, z: 0}
+  - {x: 0.42523575, y: 0.46243525, z: 0}
+  - {x: 0.42888832, y: -0.040064454, z: 0}
+  - {x: -0.41498947, y: -0.04734552, z: 0}
+  m_ShapePathHash: -553099951
+  m_InstanceId: 0
+  m_ShadowShape2DComponent: {fileID: 0}
+  m_ShadowShape2DProvider:
+    rid: -2
+  m_ShadowCastingSource: 1
+  m_ShadowMesh:
+    m_Mesh: {fileID: 0}
+    m_LocalBounds:
+      m_Center: {x: 0.0500803, y: 1.7904431, z: 0}
+      m_Extent: {x: 1.215827, y: 1.8377886, z: 0}
+    m_EdgeProcessing: 1
+    m_TrimEdge: 0.1
+    m_FlipX: 0
+    m_FlipY: 0
+    m_InitialTrim: 0
+  m_CastingOption: 1
+  m_PreviousTrimEdge: 0.1
+  m_PreviousEdgeProcessing: 1
+  m_PreviousShadowCastingSource: 1
+  m_PreviousShadowShape2DSource: {fileID: 9215798639150117246}
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }

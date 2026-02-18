@@ -160,7 +160,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_MaskInteraction: 0
   m_Sprite: {fileID: -6688429619563507101, guid: cdf7a8a21b1170c4e87bb22d7fbd1b5c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -182,6 +182,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7646531032628253456}
   - component: {fileID: 3189341455122719991}
+  - component: {fileID: 7163355703977443002}
   m_Layer: 0
   m_Name: PineTree1_0
   m_TagString: Untagged
@@ -263,6 +264,156 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 1
+--- !u!114 &7163355703977443002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4858426214274874966}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7db70e0ea77f5ac47a8f4565a9406397, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.2D.Runtime::UnityEngine.Rendering.Universal.ShadowCaster2D
+  m_ShadowGroup: 0
+  m_Priority: 0
+  m_ComponentVersion: 5
+  m_HasRenderer: 1
+  m_UseRendererSilhouette: 1
+  m_CastsShadows: 1
+  m_SelfShadows: 0
+  m_AlphaCutoff: 0.1
+  m_ApplyToSortingLayers: 00000000
+  m_ShapePath:
+  - {x: -0.42295647, y: 0.46094066, z: 0}
+  - {x: -0.33862305, y: 0.46165472, z: 0}
+  - {x: -0.34580803, y: 0.7936108, z: 0}
+  - {x: -0.42484474, y: 0.7936108, z: 0}
+  - {x: -0.42484474, y: 0.87408495, z: 0}
+  - {x: -0.50388336, y: 0.87408495, z: 0}
+  - {x: -0.5024452, y: 0.78929967, z: 0}
+  - {x: -1.0054092, y: 0.7936108, z: 0}
+  - {x: -1.0082855, y: 0.8769589, z: 0}
+  - {x: -1.1706696, y: 0.8769589, z: 0}
+  - {x: -1.1721077, y: 1.211789, z: 0}
+  - {x: -1.0887585, y: 1.210352, z: 0}
+  - {x: -1.0873222, y: 1.2937003, z: 0}
+  - {x: -0.92781067, y: 1.2922633, z: 0}
+  - {x: -0.9206257, y: 1.537997, z: 0}
+  - {x: -1.0901966, y: 1.5408711, z: 0}
+  - {x: -1.0901966, y: 1.79379, z: 0}
+  - {x: -1.0039749, y: 1.7937899, z: 0}
+  - {x: -1.0054111, y: 1.9561753, z: 0}
+  - {x: -0.9206257, y: 1.9604864, z: 0}
+  - {x: -0.92350006, y: 2.0395236, z: 0}
+  - {x: -1.0068436, y: 2.0423975, z: 0}
+  - {x: -1.0054073, y: 2.207657, z: 0}
+  - {x: -0.9220581, y: 2.2105312, z: 0}
+  - {x: -0.9206219, y: 2.2924423, z: 0}
+  - {x: -0.75536156, y: 2.2953165, z: 0}
+  - {x: -0.7567997, y: 2.3743536, z: 0}
+  - {x: -0.8430214, y: 2.3729167, z: 0}
+  - {x: -0.8401489, y: 2.5410502, z: 0}
+  - {x: -0.59441566, y: 2.5467982, z: 0}
+  - {x: -0.5886669, y: 2.6287096, z: 0}
+  - {x: -0.50819397, y: 2.6301465, z: 0}
+  - {x: -0.5053177, y: 2.7106209, z: 0}
+  - {x: -0.42053223, y: 2.7106209, z: 0}
+  - {x: -0.42197037, y: 2.8744435, z: 0}
+  - {x: -0.50819206, y: 2.8744435, z: 0}
+  - {x: -0.5067558, y: 2.9592285, z: 0}
+  - {x: -0.4190979, y: 2.9621027, z: 0}
+  - {x: -0.42053413, y: 3.044014, z: 0}
+  - {x: -0.25527382, y: 3.045451, z: 0}
+  - {x: -0.25671196, y: 3.2107105, z: 0}
+  - {x: -0.17048836, y: 3.2121475, z: 0}
+  - {x: -0.16905212, y: 3.377407, z: 0}
+  - {x: -0.08857727, y: 3.377407, z: 0}
+  - {x: -0.0857048, y: 3.456444, z: 0}
+  - {x: 0.070934296, y: 3.4593182, z: 0}
+  - {x: 0.07454109, y: 3.6300957, z: 0}
+  - {x: 0.16566086, y: 3.625998, z: 0}
+  - {x: 0.164505, y: 3.5444105, z: 0}
+  - {x: 0.24806595, y: 3.5426877, z: 0}
+  - {x: 0.25151253, y: 3.4608505, z: 0}
+  - {x: 0.33178902, y: 3.4591157, z: 0}
+  - {x: 0.33076477, y: 3.1207397, z: 0}
+  - {x: 0.49072456, y: 3.1279173, z: 0}
+  - {x: 0.49995422, y: 3.0458865, z: 0}
+  - {x: 0.57583237, y: 3.0417852, z: 0}
+  - {x: 0.5799351, y: 2.9597545, z: 0}
+  - {x: 0.66709137, y: 2.9577038, z: 0}
+  - {x: 0.6640148, y: 2.8736224, z: 0}
+  - {x: 0.5768585, y: 2.8736224, z: 0}
+  - {x: 0.57993317, y: 2.794668, z: 0}
+  - {x: 0.66298866, y: 2.794668, z: 0}
+  - {x: 0.6640129, y: 2.711612, z: 0}
+  - {x: 0.831007, y: 2.70954, z: 0}
+  - {x: 0.83174896, y: 2.626339, z: 0}
+  - {x: 0.91272163, y: 2.6285677, z: 0}
+  - {x: 0.9145889, y: 2.3753662, z: 0}
+  - {x: 0.8266182, y: 2.3739474, z: 0}
+  - {x: 0.8283558, y: 2.293499, z: 0}
+  - {x: 0.9091377, y: 2.2928824, z: 0}
+  - {x: 0.9116039, y: 2.2084005, z: 0}
+  - {x: 0.99793625, y: 2.2108672, z: 0}
+  - {x: 0.99731636, y: 2.1276186, z: 0}
+  - {x: 1.0768642, y: 2.1263852, z: 0}
+  - {x: 1.0780983, y: 2.0400536, z: 0}
+  - {x: 0.99546623, y: 2.0419035, z: 0}
+  - {x: 0.9960823, y: 1.9592717, z: 0}
+  - {x: 0.9116039, y: 1.956805, z: 0}
+  - {x: 0.9128361, y: 1.8766398, z: 0}
+  - {x: 0.99300194, y: 1.8766398, z: 0}
+  - {x: 0.994236, y: 1.7132262, z: 0}
+  - {x: 1.076868, y: 1.7101429, z: 0}
+  - {x: 1.0781021, y: 1.4585476, z: 0}
+  - {x: 0.9936199, y: 1.4585476, z: 0}
+  - {x: 0.99547005, y: 1.2914339, z: 0}
+  - {x: 1.0793343, y: 1.2914339, z: 0}
+  - {x: 1.0793343, y: 1.2118853, z: 0}
+  - {x: 1.1631985, y: 1.2100354, z: 0}
+  - {x: 1.1650486, y: 1.124937, z: 0}
+  - {x: 1.2495308, y: 1.1280203, z: 0}
+  - {x: 1.2458286, y: 0.9596734, z: 0}
+  - {x: 1.0799484, y: 0.95782346, z: 0}
+  - {x: 1.0787144, y: 0.8733417, z: 0}
+  - {x: 0.9942341, y: 0.874575, z: 0}
+  - {x: 0.9967003, y: 0.79070985, z: 0}
+  - {x: 0.4106083, y: 0.7906114, z: 0}
+  - {x: 0.4127636, y: 0.71017134, z: 0}
+  - {x: 0.32650185, y: 0.709093, z: 0}
+  - {x: 0.3281803, y: 0.46318436, z: 0}
+  - {x: 0.4114418, y: 0.46077096, z: 0}
+  - {x: 0.4162712, y: -0.038798213, z: 0}
+  - {x: -0.42502785, y: -0.04073608, z: 0}
+  m_ShapePathHash: 1446174533
+  m_InstanceId: 0
+  m_ShadowShape2DComponent: {fileID: 0}
+  m_ShadowShape2DProvider:
+    rid: -2
+  m_ShadowCastingSource: 1
+  m_ShadowMesh:
+    m_Mesh: {fileID: 0}
+    m_LocalBounds:
+      m_Center: {x: 0.038711548, y: 1.7946798, z: 0}
+      m_Extent: {x: 1.2108192, y: 1.8354158, z: 0}
+    m_EdgeProcessing: 1
+    m_TrimEdge: 0.1
+    m_FlipX: 0
+    m_FlipY: 0
+    m_InitialTrim: 0
+  m_CastingOption: 1
+  m_PreviousTrimEdge: 0.1
+  m_PreviousEdgeProcessing: 1
+  m_PreviousShadowCastingSource: 1
+  m_PreviousShadowShape2DSource: {fileID: 3189341455122719991}
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
 --- !u!1 &5865735511616542769
 GameObject:
   m_ObjectHideFlags: 0
@@ -342,7 +493,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_MaskInteraction: 0
   m_Sprite: {fileID: -6688429619563507101, guid: cdf7a8a21b1170c4e87bb22d7fbd1b5c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
