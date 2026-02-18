@@ -22,6 +22,7 @@ TagManager:
   - Cam3
   - Cam4
   - EnemyArea
+  - Flower
   layers:
   - Default
   - TransparentFX
