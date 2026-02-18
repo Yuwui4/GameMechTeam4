@@ -103,7 +103,7 @@
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
-                    "initialStateCheck": false
+                    "initialStateCheck": true
                 }
             ],
             "bindings": [
@@ -264,8 +264,8 @@
                 {
                     "name": "",
                     "id": "72a39255-f97a-4ccb-bc6a-19a89e17829d",
-                    "path": "<Keyboard>/f",
-                    "interactions": "Hold",
+                    "path": "<Keyboard>/t",
+                    "interactions": "",
                     "processors": "",
                     "groups": "",
                     "action": "Laser",
