@@ -21,6 +21,7 @@ TagManager:
   - Cam2
   - Cam3
   - Cam4
+  - EnemyArea
   layers:
   - Default
   - TransparentFX
