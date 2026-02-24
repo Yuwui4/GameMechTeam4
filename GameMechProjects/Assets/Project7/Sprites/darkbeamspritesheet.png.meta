@@ -1,0 +1,1716 @@
+fileFormatVersion: 2
+guid: abdeb373a74f8e548aebc3a638ce2c0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7277520817973558571
+    second: darkbeamspritesheet_0
+  - first:
+      213: -563536747604623203
+    second: darkbeamspritesheet_1
+  - first:
+      213: 8877540977384971941
+    second: darkbeamspritesheet_2
+  - first:
+      213: -1601678195535820257
+    second: darkbeamspritesheet_3
+  - first:
+      213: -8034303591137805603
+    second: darkbeamspritesheet_4
+  - first:
+      213: -2122667250028985425
+    second: darkbeamspritesheet_5
+  - first:
+      213: 3164632004944988134
+    second: darkbeamspritesheet_6
+  - first:
+      213: -1571795802343802169
+    second: darkbeamspritesheet_7
+  - first:
+      213: 6226389659702114640
+    second: darkbeamspritesheet_8
+  - first:
+      213: 2896858296228549671
+    second: darkbeamspritesheet_9
+  - first:
+      213: 6002894279543225694
+    second: darkbeamspritesheet_10
+  - first:
+      213: 7428842737194323063
+    second: darkbeamspritesheet_11
+  - first:
+      213: 3955131824577812986
+    second: darkbeamspritesheet_12
+  - first:
+      213: -428330400431557660
+    second: darkbeamspritesheet_13
+  - first:
+      213: -753651663366514865
+    second: darkbeamspritesheet_14
+  - first:
+      213: -4837145708548960050
+    second: darkbeamspritesheet_15
+  - first:
+      213: -3842398296346581105
+    second: darkbeamspritesheet_16
+  - first:
+      213: -6861558383306441389
+    second: darkbeamspritesheet_17
+  - first:
+      213: -6773957322316667316
+    second: darkbeamspritesheet_18
+  - first:
+      213: -6157136462293065378
+    second: darkbeamspritesheet_19
+  - first:
+      213: -5243157348648236996
+    second: darkbeamspritesheet_20
+  - first:
+      213: 3314122505898556580
+    second: darkbeamspritesheet_21
+  - first:
+      213: 778066072409784459
+    second: darkbeamspritesheet_22
+  - first:
+      213: 7418467033149090625
+    second: darkbeamspritesheet_23
+  - first:
+      213: -1847671570990607861
+    second: darkbeamspritesheet_24
+  - first:
+      213: 7489153029463834719
+    second: darkbeamspritesheet_25
+  - first:
+      213: 1868791941239257449
+    second: darkbeamspritesheet_26
+  - first:
+      213: -6763278776889932857
+    second: darkbeamspritesheet_27
+  - first:
+      213: 5235295749371076673
+    second: darkbeamspritesheet_28
+  - first:
+      213: -7308681729980237664
+    second: darkbeamspritesheet_29
+  - first:
+      213: 3598467584886872454
+    second: darkbeamspritesheet_30
+  - first:
+      213: 874384617539690717
+    second: darkbeamspritesheet_31
+  - first:
+      213: -1574592445831771320
+    second: darkbeamspritesheet_32
+  - first:
+      213: -5861430001877683499
+    second: darkbeamspritesheet_33
+  - first:
+      213: 1780592665102922601
+    second: darkbeamspritesheet_34
+  - first:
+      213: 7550333845294747299
+    second: darkbeamspritesheet_35
+  - first:
+      213: 5324344748396428796
+    second: darkbeamspritesheet_36
+  - first:
+      213: 2395519214129197611
+    second: darkbeamspritesheet_37
+  - first:
+      213: -4489087326803236189
+    second: darkbeamspritesheet_38
+  - first:
+      213: -3899539595093871936
+    second: darkbeamspritesheet_39
+  - first:
+      213: -4081999963952263947
+    second: darkbeamspritesheet_40
+  - first:
+      213: 6071478078026225869
+    second: darkbeamspritesheet_41
+  - first:
+      213: 8616587617387074308
+    second: darkbeamspritesheet_42
+  - first:
+      213: 1699750339476659520
+    second: darkbeamspritesheet_43
+  - first:
+      213: -1650321389505219489
+    second: darkbeamspritesheet_44
+  - first:
+      213: -3365610324973521732
+    second: darkbeamspritesheet_45
+  - first:
+      213: 1771789026393179626
+    second: darkbeamspritesheet_46
+  - first:
+      213: -3906621387616528928
+    second: darkbeamspritesheet_47
+  - first:
+      213: -7631931107883743615
+    second: darkbeamspritesheet_48
+  - first:
+      213: -5925360911353331692
+    second: darkbeamspritesheet_49
+  - first:
+      213: -1535977456429868986
+    second: darkbeamspritesheet_50
+  - first:
+      213: -610432612341769793
+    second: darkbeamspritesheet_51
+  - first:
+      213: -2249401344094981619
+    second: darkbeamspritesheet_52
+  - first:
+      213: -6374134081652718042
+    second: darkbeamspritesheet_53
+  - first:
+      213: 8282362870120965897
+    second: darkbeamspritesheet_54
+  - first:
+      213: 2764397975956895747
+    second: darkbeamspritesheet_55
+  - first:
+      213: 7253352837020197034
+    second: darkbeamspritesheet_56
+  - first:
+      213: -8995797498765739244
+    second: darkbeamspritesheet_57
+  - first:
+      213: 8963589719830505610
+    second: darkbeamspritesheet_58
+  - first:
+      213: 1654545043061862564
+    second: darkbeamspritesheet_59
+  - first:
+      213: 7455332612520281550
+    second: darkbeamspritesheet_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: darkbeamspritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 16538
+        width: 1906
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2df2d040a2fef460800000000000000
+      internalID: 7277520817973558571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 16452
+        width: 1911
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90c525505aed28f0800000000000000
+      internalID: -563536747604623203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 16366
+        width: 1886
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae5104db7c533b70800000000000000
+      internalID: 8877540977384971941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 5794
+        y: 16279
+        width: 1886
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a499eca22b5c9e0800000000000000
+      internalID: -1601678195535820257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15199
+        width: 1910
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaf590937b608090800000000000000
+      internalID: -8034303591137805603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 15199
+        width: 1913
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3caa9e165ca82e0800000000000000
+      internalID: -2122667250028985425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 15199
+        width: 1910
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e70493aa080beb20800000000000000
+      internalID: 3164632004944988134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 5771
+        y: 15199
+        width: 1909
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caf8d5ab0cdf2ae0800000000000000
+      internalID: -1571795802343802169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 14119
+        width: 1911
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059b5bb1864986650800000000000000
+      internalID: 6226389659702114640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 14119
+        width: 1895
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724985fa545b33820800000000000000
+      internalID: 2896858296228549671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 14119
+        width: 1911
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5df564ea809e4350800000000000000
+      internalID: 6002894279543225694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 5769
+        y: 14119
+        width: 1911
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c45ba1c1d881760800000000000000
+      internalID: 7428842737194323063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 13039
+        width: 1913
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af99dc3707373e630800000000000000
+      internalID: 3955131824577812986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 13039
+        width: 1892
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3b6cb25c34e0af0800000000000000
+      internalID: -428330400431557660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 13039
+        width: 1913
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4718a02ecd7a85f0800000000000000
+      internalID: -753651663366514865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 5770
+        y: 13039
+        width: 1910
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0522b3b910fdcb0800000000000000
+      internalID: -4837145708548960050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11959
+        width: 1914
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8722bc7b1f0daac0800000000000000
+      internalID: -3842398296346581105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 11959
+        width: 1914
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d7a652109d6c0a0800000000000000
+      internalID: -6861558383306441389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 11959
+        width: 1911
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46a8af84b11ef1a0800000000000000
+      internalID: -6773957322316667316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5769
+        y: 11959
+        width: 1911
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51aa6b62057d8aa0800000000000000
+      internalID: -6157136462293065378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10879
+        width: 1910
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38c75cbb209c37b0800000000000000
+      internalID: -5243157348648236996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 10879
+        width: 1908
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acf5323cd02efd20800000000000000
+      internalID: 3314122505898556580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 10879
+        width: 1910
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80c4c178fe3cca00800000000000000
+      internalID: 778066072409784459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 5771
+        y: 10879
+        width: 1909
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b2cc04670b3f660800000000000000
+      internalID: 7418467033149090625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9799
+        width: 1911
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02548dde70cb56e0800000000000000
+      internalID: -1847671570990607861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 9799
+        width: 1911
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f508bb54001dee760800000000000000
+      internalID: 7489153029463834719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3858
+        y: 9799
+        width: 1903
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969bda88e584fe910800000000000000
+      internalID: 1868791941239257449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 5769
+        y: 9799
+        width: 1911
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3898a29c10422a0800000000000000
+      internalID: -6763278776889932857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 8719
+        width: 1891
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140206b0fb187a840800000000000000
+      internalID: 5235295749371076673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 8719
+        width: 1912
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8f32c80b8529a90800000000000000
+      internalID: -7308681729980237664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3853
+        y: 8719
+        width: 1908
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68990f4f33350f130800000000000000
+      internalID: 3598467584886872454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 5769
+        y: 8719
+        width: 1911
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0e48d4d20722c00800000000000000
+      internalID: 874384617539690717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 7639
+        width: 1889
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b0f28538ce52ae0800000000000000
+      internalID: -1574592445831771320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 7639
+        width: 1909
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2734ee77408aea0800000000000000
+      internalID: -5861430001877683499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 3862
+        y: 7639
+        width: 1899
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963302d489fe5b810800000000000000
+      internalID: 1780592665102922601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 5768
+        y: 7639
+        width: 1912
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae076001ac28c860800000000000000
+      internalID: 7550333845294747299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6559
+        width: 1910
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdb2edc65fd3e940800000000000000
+      internalID: 5324344748396428796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 6559
+        width: 1897
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b223bc288089e3120800000000000000
+      internalID: 2395519214129197611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3847
+        y: 6559
+        width: 1914
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa6f284cde83b1c0800000000000000
+      internalID: -4489087326803236189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 5768
+        y: 6559
+        width: 1912
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2fbde166d02e9c0800000000000000
+      internalID: -3899539595093871936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5479
+        width: 1913
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcc77ff8a2d957c0800000000000000
+      internalID: -4081999963952263947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 5479
+        width: 1914
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc81356d429324450800000000000000
+      internalID: 6071478078026225869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 3847
+        y: 5479
+        width: 1914
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403d26e09c4449770800000000000000
+      internalID: 8616587617387074308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5769
+        y: 5479
+        width: 1911
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d1b579de9b69710800000000000000
+      internalID: 1699750339476659520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 4399
+        width: 1903
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54ff45a071e819e0800000000000000
+      internalID: -1650321389505219489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 4414
+        width: 1902
+        height: 892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4f09fbd33fa41d0800000000000000
+      internalID: -3365610324973521732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 4399
+        width: 1913
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5c91f6bb8a69810800000000000000
+      internalID: 1771789026393179626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 5796
+        y: 4428
+        width: 1884
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e55c2fcb84e8c9c0800000000000000
+      internalID: -3906621387616528928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3319
+        width: 1908
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1860654d71fe51690800000000000000
+      internalID: -7631931107883743615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 3377
+        width: 1902
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410ccc025a3e4cda0800000000000000
+      internalID: -5925360911353331692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 3849
+        y: 3363
+        width: 1912
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6485d7e24ac1faae0800000000000000
+      internalID: -1535977456429868986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 5771
+        y: 3319
+        width: 1909
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb91e06f5ce4787f0800000000000000
+      internalID: -610432612341769793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2239
+        width: 1914
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02bee7356588c0e0800000000000000
+      internalID: -2249401344094981619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 2239
+        width: 1902
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626016803d68a87a0800000000000000
+      internalID: -6374134081652718042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 3849
+        y: 2239
+        width: 1912
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907e176062dd0f270800000000000000
+      internalID: 8282362870120965897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 2239
+        width: 1908
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30838be005d1d5620800000000000000
+      internalID: 2764397975956895747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1159
+        width: 1912
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa02921b9f519a460800000000000000
+      internalID: 7253352837020197034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1159
+        width: 1911
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b78be26d1882380800000000000000
+      internalID: -8995797498765739244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 1159
+        width: 1910
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8827daeb51156c70800000000000000
+      internalID: 8963589719830505610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 5773
+        y: 1159
+        width: 1907
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0f59453ff16f610800000000000000
+      internalID: 1654545043061862564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkbeamspritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 79
+        width: 1911
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec508a3d289a67760800000000000000
+      internalID: 7455332612520281550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      darkbeamspritesheet_0: 7277520817973558571
+      darkbeamspritesheet_1: -563536747604623203
+      darkbeamspritesheet_10: 6002894279543225694
+      darkbeamspritesheet_11: 7428842737194323063
+      darkbeamspritesheet_12: 3955131824577812986
+      darkbeamspritesheet_13: -428330400431557660
+      darkbeamspritesheet_14: -753651663366514865
+      darkbeamspritesheet_15: -4837145708548960050
+      darkbeamspritesheet_16: -3842398296346581105
+      darkbeamspritesheet_17: -6861558383306441389
+      darkbeamspritesheet_18: -6773957322316667316
+      darkbeamspritesheet_19: -6157136462293065378
+      darkbeamspritesheet_2: 8877540977384971941
+      darkbeamspritesheet_20: -5243157348648236996
+      darkbeamspritesheet_21: 3314122505898556580
+      darkbeamspritesheet_22: 778066072409784459
+      darkbeamspritesheet_23: 7418467033149090625
+      darkbeamspritesheet_24: -1847671570990607861
+      darkbeamspritesheet_25: 7489153029463834719
+      darkbeamspritesheet_26: 1868791941239257449
+      darkbeamspritesheet_27: -6763278776889932857
+      darkbeamspritesheet_28: 5235295749371076673
+      darkbeamspritesheet_29: -7308681729980237664
+      darkbeamspritesheet_3: -1601678195535820257
+      darkbeamspritesheet_30: 3598467584886872454
+      darkbeamspritesheet_31: 874384617539690717
+      darkbeamspritesheet_32: -1574592445831771320
+      darkbeamspritesheet_33: -5861430001877683499
+      darkbeamspritesheet_34: 1780592665102922601
+      darkbeamspritesheet_35: 7550333845294747299
+      darkbeamspritesheet_36: 5324344748396428796
+      darkbeamspritesheet_37: 2395519214129197611
+      darkbeamspritesheet_38: -4489087326803236189
+      darkbeamspritesheet_39: -3899539595093871936
+      darkbeamspritesheet_4: -8034303591137805603
+      darkbeamspritesheet_40: -4081999963952263947
+      darkbeamspritesheet_41: 6071478078026225869
+      darkbeamspritesheet_42: 8616587617387074308
+      darkbeamspritesheet_43: 1699750339476659520
+      darkbeamspritesheet_44: -1650321389505219489
+      darkbeamspritesheet_45: -3365610324973521732
+      darkbeamspritesheet_46: 1771789026393179626
+      darkbeamspritesheet_47: -3906621387616528928
+      darkbeamspritesheet_48: -7631931107883743615
+      darkbeamspritesheet_49: -5925360911353331692
+      darkbeamspritesheet_5: -2122667250028985425
+      darkbeamspritesheet_50: -1535977456429868986
+      darkbeamspritesheet_51: -610432612341769793
+      darkbeamspritesheet_52: -2249401344094981619
+      darkbeamspritesheet_53: -6374134081652718042
+      darkbeamspritesheet_54: 8282362870120965897
+      darkbeamspritesheet_55: 2764397975956895747
+      darkbeamspritesheet_56: 7253352837020197034
+      darkbeamspritesheet_57: -8995797498765739244
+      darkbeamspritesheet_58: 8963589719830505610
+      darkbeamspritesheet_59: 1654545043061862564
+      darkbeamspritesheet_6: 3164632004944988134
+      darkbeamspritesheet_60: 7455332612520281550
+      darkbeamspritesheet_7: -1571795802343802169
+      darkbeamspritesheet_8: 6226389659702114640
+      darkbeamspritesheet_9: 2896858296228549671
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

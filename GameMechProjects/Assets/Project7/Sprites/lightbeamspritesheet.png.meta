@@ -1,0 +1,1716 @@
+fileFormatVersion: 2
+guid: 060b4a1e5f0b2514b92fcd3589f3cfd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8587335785909626583
+    second: lightbeamspritesheet_0
+  - first:
+      213: 5672478921876624547
+    second: lightbeamspritesheet_1
+  - first:
+      213: -6835481458920473482
+    second: lightbeamspritesheet_2
+  - first:
+      213: 8521561372737844725
+    second: lightbeamspritesheet_3
+  - first:
+      213: 1041283483798616201
+    second: lightbeamspritesheet_4
+  - first:
+      213: -6741462558557563176
+    second: lightbeamspritesheet_5
+  - first:
+      213: -4975508858771572610
+    second: lightbeamspritesheet_6
+  - first:
+      213: -1076132941107407068
+    second: lightbeamspritesheet_7
+  - first:
+      213: -3426887202462108449
+    second: lightbeamspritesheet_8
+  - first:
+      213: 4755846010001037131
+    second: lightbeamspritesheet_9
+  - first:
+      213: -6067288370264692654
+    second: lightbeamspritesheet_10
+  - first:
+      213: -5505347781652610109
+    second: lightbeamspritesheet_11
+  - first:
+      213: 4417922652603981750
+    second: lightbeamspritesheet_12
+  - first:
+      213: 8066392523270761651
+    second: lightbeamspritesheet_13
+  - first:
+      213: -4784523353589833354
+    second: lightbeamspritesheet_14
+  - first:
+      213: 3132977572984885101
+    second: lightbeamspritesheet_15
+  - first:
+      213: 974058355759920410
+    second: lightbeamspritesheet_16
+  - first:
+      213: -4184833376640798019
+    second: lightbeamspritesheet_17
+  - first:
+      213: -4387421565432866593
+    second: lightbeamspritesheet_18
+  - first:
+      213: -6327750476233106811
+    second: lightbeamspritesheet_19
+  - first:
+      213: 1784868901271348920
+    second: lightbeamspritesheet_20
+  - first:
+      213: -1538332211675618508
+    second: lightbeamspritesheet_21
+  - first:
+      213: -8778654150722049469
+    second: lightbeamspritesheet_22
+  - first:
+      213: 8122088629287059807
+    second: lightbeamspritesheet_23
+  - first:
+      213: -1664366492006208809
+    second: lightbeamspritesheet_24
+  - first:
+      213: 6458811248608456341
+    second: lightbeamspritesheet_25
+  - first:
+      213: 9114197976263596524
+    second: lightbeamspritesheet_26
+  - first:
+      213: -3814036078080177093
+    second: lightbeamspritesheet_27
+  - first:
+      213: 6363779384029895738
+    second: lightbeamspritesheet_28
+  - first:
+      213: 6309679587523348295
+    second: lightbeamspritesheet_29
+  - first:
+      213: -335298692916842780
+    second: lightbeamspritesheet_30
+  - first:
+      213: 6083425774644828802
+    second: lightbeamspritesheet_31
+  - first:
+      213: -2207674736886615755
+    second: lightbeamspritesheet_32
+  - first:
+      213: -1224270476876320522
+    second: lightbeamspritesheet_33
+  - first:
+      213: -1911839542654219827
+    second: lightbeamspritesheet_34
+  - first:
+      213: -8759334562894122502
+    second: lightbeamspritesheet_35
+  - first:
+      213: 1782939939806192918
+    second: lightbeamspritesheet_36
+  - first:
+      213: 7833876040564766503
+    second: lightbeamspritesheet_37
+  - first:
+      213: 2606044838549485027
+    second: lightbeamspritesheet_38
+  - first:
+      213: -8100322012031997443
+    second: lightbeamspritesheet_39
+  - first:
+      213: -1943587176863772633
+    second: lightbeamspritesheet_40
+  - first:
+      213: -6237045881336551655
+    second: lightbeamspritesheet_41
+  - first:
+      213: -246568255932908061
+    second: lightbeamspritesheet_42
+  - first:
+      213: 6507630694008491403
+    second: lightbeamspritesheet_43
+  - first:
+      213: -2867461533216279889
+    second: lightbeamspritesheet_44
+  - first:
+      213: -6477248757849145314
+    second: lightbeamspritesheet_45
+  - first:
+      213: -790212032035607215
+    second: lightbeamspritesheet_46
+  - first:
+      213: 5087258199036145661
+    second: lightbeamspritesheet_47
+  - first:
+      213: 2481707311224165577
+    second: lightbeamspritesheet_48
+  - first:
+      213: -8364415820503965335
+    second: lightbeamspritesheet_49
+  - first:
+      213: -6634425313741846618
+    second: lightbeamspritesheet_50
+  - first:
+      213: 2005494496550117603
+    second: lightbeamspritesheet_51
+  - first:
+      213: -3390720497608044863
+    second: lightbeamspritesheet_52
+  - first:
+      213: 2263828526934160189
+    second: lightbeamspritesheet_53
+  - first:
+      213: -6928885988288105483
+    second: lightbeamspritesheet_54
+  - first:
+      213: 366267602529192011
+    second: lightbeamspritesheet_55
+  - first:
+      213: -1751645505503829438
+    second: lightbeamspritesheet_56
+  - first:
+      213: 5051334456694938223
+    second: lightbeamspritesheet_57
+  - first:
+      213: -3159376182895638999
+    second: lightbeamspritesheet_58
+  - first:
+      213: -249032745314481747
+    second: lightbeamspritesheet_59
+  - first:
+      213: 8251508648722331464
+    second: lightbeamspritesheet_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lightbeamspritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11008
+        width: 1272
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6a42e46685c2770800000000000000
+      internalID: 8587335785909626583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 10950
+        width: 1274
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4d85e7681b8be40800000000000000
+      internalID: 5672478921876624547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 10892
+        width: 1276
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cb64c34dd7321a0800000000000000
+      internalID: -6835481458920473482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 10835
+        width: 1277
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5bab95beaa24670800000000000000
+      internalID: 8521561372737844725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 10115
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9883c42cfc1637e00800000000000000
+      internalID: 1041283483798616201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 10115
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6949255838172a0800000000000000
+      internalID: -6741462558557563176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 10115
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e787c18ed0173fab0800000000000000
+      internalID: -4975508858771572610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 10115
+        width: 1277
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427523aaacec011f0800000000000000
+      internalID: -1076132941107407068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9395
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4f9ebee304170d0800000000000000
+      internalID: -3426887202462108449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 9395
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b471290afb8200240800000000000000
+      internalID: 4755846010001037131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 9395
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258a3848f59accba0800000000000000
+      internalID: -6067288370264692654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 9395
+        width: 1277
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c38c957c531993b0800000000000000
+      internalID: -5505347781652610109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 8675
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf9c91de3d9f4d30800000000000000
+      internalID: 4417922652603981750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 8675
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcab68234591ff60800000000000000
+      internalID: 8066392523270761651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 8675
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671a7b10c55f99db0800000000000000
+      internalID: -4784523353589833354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 8675
+        width: 1277
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f870fd0829a7b20800000000000000
+      internalID: 3132977572984885101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7955
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15329de9ec848d00800000000000000
+      internalID: 974058355759920410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 7955
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db27025573c7ce5c0800000000000000
+      internalID: -4184833376640798019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 7955
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd85c70f45fbc13c0800000000000000
+      internalID: -4387421565432866593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 7955
+        width: 1277
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a11dcb7705f28a0800000000000000
+      internalID: -6327750476233106811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7235
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6abee1fc025c810800000000000000
+      internalID: 1784868901271348920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 7235
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433a880010fb6aae0800000000000000
+      internalID: -1538332211675618508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 7235
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a243caf84fb2680800000000000000
+      internalID: -8778654150722049469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 7235
+        width: 1277
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5105ee539477b070800000000000000
+      internalID: 8122088629287059807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6515
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da28e36e7bf6e8e0800000000000000
+      internalID: -1664366492006208809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 6515
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59eaa904c9e42a950800000000000000
+      internalID: 6458811248608456341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 6515
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce996c335c22c7e70800000000000000
+      internalID: 9114197976263596524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 6515
+        width: 1277
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cc1850562d11bc0800000000000000
+      internalID: -3814036078080177093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5795
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c5e0e02afa05850800000000000000
+      internalID: 6363779384029895738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 5795
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747ccdc972c709750800000000000000
+      internalID: 6309679587523348295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 5795
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eee9038d97c85bf0800000000000000
+      internalID: -335298692916842780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 5795
+        width: 1277
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a192bb28bac6450800000000000000
+      internalID: 6083425774644828802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5075
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531f4480683cc51e0800000000000000
+      internalID: -2207674736886615755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 5075
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0f9ccdc74820fe0800000000000000
+      internalID: -1224270476876320522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 5075
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9cc88b018c775e0800000000000000
+      internalID: -1911839542654219827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 5075
+        width: 1277
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1f4edbf97907680800000000000000
+      internalID: -8759334562894122502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4355
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6152108cd664eb810800000000000000
+      internalID: 1782939939806192918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 4355
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7277e44d0c487bc60800000000000000
+      internalID: 7833876040564766503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 4355
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e57b7629f78a2420800000000000000
+      internalID: 2606044838549485027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 4355
+        width: 1277
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df92e822c00e59f80800000000000000
+      internalID: -8100322012031997443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3635
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720d70d92cdf605e0800000000000000
+      internalID: -1943587176863772633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 3635
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9172f13f0df8179a0800000000000000
+      internalID: -6237045881336551655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 3635
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed3b344a73049cf0800000000000000
+      internalID: -246568255932908061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 3635
+        width: 1277
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d0ec523afbf4a50800000000000000
+      internalID: 6507630694008491403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2915
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2fb819deab438d0800000000000000
+      internalID: -2867461533216279889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 2915
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10cf8a92903c16a0800000000000000
+      internalID: -6477248757849145314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 2915
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d2745f75a9805f0800000000000000
+      internalID: -790212032035607215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 2915
+        width: 1277
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff2e3ae062999640800000000000000
+      internalID: 5087258199036145661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2195
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c49102a6abc07220800000000000000
+      internalID: 2481707311224165577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 2195
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9612439b020abeb80800000000000000
+      internalID: -8364415820503965335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 2195
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7ce8de359cde3a0800000000000000
+      internalID: -6634425313741846618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 2195
+        width: 1277
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0eed97e92f4db10800000000000000
+      internalID: 2005494496550117603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1475
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cecf671cadb1f0d0800000000000000
+      internalID: -3390720497608044863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1475
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d337e4c0d0cba6f10800000000000000
+      internalID: 2263828526934160189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 1475
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3f7ea87e6a7df90800000000000000
+      internalID: -6928885988288105483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 1475
+        width: 1277
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b488c75a17e351500800000000000000
+      internalID: 366267602529192011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 755
+        width: 1278
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242e80081b7e0b7e0800000000000000
+      internalID: -1751645505503829438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 764
+        width: 1277
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a1efcdce1f91640800000000000000
+      internalID: 5051334456694938223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 774
+        width: 1277
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9260daac914a724d0800000000000000
+      internalID: -3159376182895638999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 784
+        width: 1276
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9071e99024b8cf0800000000000000
+      internalID: -249032745314481747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightbeamspritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 73
+        width: 1276
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847782cc56f338270800000000000000
+      internalID: 8251508648722331464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lightbeamspritesheet_0: 8587335785909626583
+      lightbeamspritesheet_1: 5672478921876624547
+      lightbeamspritesheet_10: -6067288370264692654
+      lightbeamspritesheet_11: -5505347781652610109
+      lightbeamspritesheet_12: 4417922652603981750
+      lightbeamspritesheet_13: 8066392523270761651
+      lightbeamspritesheet_14: -4784523353589833354
+      lightbeamspritesheet_15: 3132977572984885101
+      lightbeamspritesheet_16: 974058355759920410
+      lightbeamspritesheet_17: -4184833376640798019
+      lightbeamspritesheet_18: -4387421565432866593
+      lightbeamspritesheet_19: -6327750476233106811
+      lightbeamspritesheet_2: -6835481458920473482
+      lightbeamspritesheet_20: 1784868901271348920
+      lightbeamspritesheet_21: -1538332211675618508
+      lightbeamspritesheet_22: -8778654150722049469
+      lightbeamspritesheet_23: 8122088629287059807
+      lightbeamspritesheet_24: -1664366492006208809
+      lightbeamspritesheet_25: 6458811248608456341
+      lightbeamspritesheet_26: 9114197976263596524
+      lightbeamspritesheet_27: -3814036078080177093
+      lightbeamspritesheet_28: 6363779384029895738
+      lightbeamspritesheet_29: 6309679587523348295
+      lightbeamspritesheet_3: 8521561372737844725
+      lightbeamspritesheet_30: -335298692916842780
+      lightbeamspritesheet_31: 6083425774644828802
+      lightbeamspritesheet_32: -2207674736886615755
+      lightbeamspritesheet_33: -1224270476876320522
+      lightbeamspritesheet_34: -1911839542654219827
+      lightbeamspritesheet_35: -8759334562894122502
+      lightbeamspritesheet_36: 1782939939806192918
+      lightbeamspritesheet_37: 7833876040564766503
+      lightbeamspritesheet_38: 2606044838549485027
+      lightbeamspritesheet_39: -8100322012031997443
+      lightbeamspritesheet_4: 1041283483798616201
+      lightbeamspritesheet_40: -1943587176863772633
+      lightbeamspritesheet_41: -6237045881336551655
+      lightbeamspritesheet_42: -246568255932908061
+      lightbeamspritesheet_43: 6507630694008491403
+      lightbeamspritesheet_44: -2867461533216279889
+      lightbeamspritesheet_45: -6477248757849145314
+      lightbeamspritesheet_46: -790212032035607215
+      lightbeamspritesheet_47: 5087258199036145661
+      lightbeamspritesheet_48: 2481707311224165577
+      lightbeamspritesheet_49: -8364415820503965335
+      lightbeamspritesheet_5: -6741462558557563176
+      lightbeamspritesheet_50: -6634425313741846618
+      lightbeamspritesheet_51: 2005494496550117603
+      lightbeamspritesheet_52: -3390720497608044863
+      lightbeamspritesheet_53: 2263828526934160189
+      lightbeamspritesheet_54: -6928885988288105483
+      lightbeamspritesheet_55: 366267602529192011
+      lightbeamspritesheet_56: -1751645505503829438
+      lightbeamspritesheet_57: 5051334456694938223
+      lightbeamspritesheet_58: -3159376182895638999
+      lightbeamspritesheet_59: -249032745314481747
+      lightbeamspritesheet_6: -4975508858771572610
+      lightbeamspritesheet_60: 8251508648722331464
+      lightbeamspritesheet_7: -1076132941107407068
+      lightbeamspritesheet_8: -3426887202462108449
+      lightbeamspritesheet_9: 4755846010001037131
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
