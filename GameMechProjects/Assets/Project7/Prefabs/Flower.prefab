@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 264509902928505317}
   - component: {fileID: 3328137255129070397}
   - component: {fileID: 5249000464430762492}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Flower
   m_TagString: Flower
   m_Icon: {fileID: 0}
@@ -123,7 +123,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3346369520494947789}
   - component: {fileID: 6735729171952966505}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Sprite Light 2D
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -208,7 +208,7 @@ GameObject:
   - component: {fileID: 6626794608983060300}
   - component: {fileID: 3668251600456374493}
   - component: {fileID: 6103880661604040714}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Visual
   m_TagString: Untagged
   m_Icon: {fileID: 0}

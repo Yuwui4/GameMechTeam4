@@ -734,6 +734,8 @@ GameObject:
   m_Component:
   - component: {fileID: 8263176650470422917}
   - component: {fileID: 754342991606008835}
+  - component: {fileID: 7217443456896219773}
+  - component: {fileID: 1543973615845785346}
   m_Layer: 0
   m_Name: Corrupt Laser
   m_TagString: Corrupt
@@ -805,6 +807,39 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 36.757965, y: 2.7674155}
   m_EdgeRadius: 0
+--- !u!114 &7217443456896219773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5926717618534080721}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.VisualScripting.Core::Unity.VisualScripting.Variables
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Max
+      Laser Length","value":{"$content":18.4,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!114 &1543973615845785346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5926717618534080721}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.VisualScripting.Flow::Unity.VisualScripting.ScriptMachine
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: d91c9a346808f4c4da1b9d40c5cad4d5, type: 2}
 --- !u!1 &5934566104027156722
 GameObject:
   m_ObjectHideFlags: 0
@@ -1094,6 +1129,8 @@ GameObject:
   m_Component:
   - component: {fileID: 3973442770680108454}
   - component: {fileID: 1102937213500128067}
+  - component: {fileID: 7711623672630994960}
+  - component: {fileID: 3451175737939183837}
   m_Layer: 0
   m_Name: Holy Laser
   m_TagString: Holy
@@ -1165,6 +1202,39 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 36.757965, y: 2.7674155}
   m_EdgeRadius: 0
+--- !u!114 &7711623672630994960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7356374438219509512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.VisualScripting.Core::Unity.VisualScripting.Variables
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Max
+      Laser Length","value":{"$content":18.4,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!114 &3451175737939183837
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7356374438219509512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.VisualScripting.Flow::Unity.VisualScripting.ScriptMachine
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: d91c9a346808f4c4da1b9d40c5cad4d5, type: 2}
 --- !u!1 &7484114841374306900
 GameObject:
   m_ObjectHideFlags: 0
