@@ -24,6 +24,8 @@ TagManager:
   - EnemyArea
   - Flower
   - Tome
+  - Holy
+  - Corrupt
   layers:
   - Default
   - TransparentFX
