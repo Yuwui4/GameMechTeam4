@@ -26,6 +26,7 @@ TagManager:
   - Tome
   - Holy
   - Corrupt
+  - Wall
   layers:
   - Default
   - TransparentFX
