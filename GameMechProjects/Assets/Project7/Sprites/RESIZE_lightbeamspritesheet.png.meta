@@ -1,0 +1,1719 @@
+fileFormatVersion: 2
+guid: 07eb0cd19f9368c42b8bfd0c30658436
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6030943275162101869
+    second: RESIZE_lightbeamspritesheet_0
+  - first:
+      213: -9143656912774651511
+    second: RESIZE_lightbeamspritesheet_1
+  - first:
+      213: 2287305680361817783
+    second: RESIZE_lightbeamspritesheet_2
+  - first:
+      213: -87473599693468936
+    second: RESIZE_lightbeamspritesheet_3
+  - first:
+      213: -7485880252266742322
+    second: RESIZE_lightbeamspritesheet_4
+  - first:
+      213: 948644637200880577
+    second: RESIZE_lightbeamspritesheet_5
+  - first:
+      213: -3339327920553048511
+    second: RESIZE_lightbeamspritesheet_6
+  - first:
+      213: 3624438194351027795
+    second: RESIZE_lightbeamspritesheet_7
+  - first:
+      213: 931829067901221902
+    second: RESIZE_lightbeamspritesheet_8
+  - first:
+      213: 3262748201762328566
+    second: RESIZE_lightbeamspritesheet_9
+  - first:
+      213: 5889527724638039330
+    second: RESIZE_lightbeamspritesheet_10
+  - first:
+      213: 3447851931930245674
+    second: RESIZE_lightbeamspritesheet_11
+  - first:
+      213: -5045427891443674908
+    second: RESIZE_lightbeamspritesheet_12
+  - first:
+      213: -8822944156887490756
+    second: RESIZE_lightbeamspritesheet_13
+  - first:
+      213: 1270338400644838491
+    second: RESIZE_lightbeamspritesheet_14
+  - first:
+      213: 7666667240007386429
+    second: RESIZE_lightbeamspritesheet_15
+  - first:
+      213: 5756049379229995700
+    second: RESIZE_lightbeamspritesheet_16
+  - first:
+      213: 1919502687490838366
+    second: RESIZE_lightbeamspritesheet_17
+  - first:
+      213: -1095489457595828980
+    second: RESIZE_lightbeamspritesheet_18
+  - first:
+      213: -2843254753812014237
+    second: RESIZE_lightbeamspritesheet_19
+  - first:
+      213: 4715237961875427270
+    second: RESIZE_lightbeamspritesheet_20
+  - first:
+      213: 6774112221633843246
+    second: RESIZE_lightbeamspritesheet_21
+  - first:
+      213: 8599024909383409038
+    second: RESIZE_lightbeamspritesheet_22
+  - first:
+      213: 8870313750595709572
+    second: RESIZE_lightbeamspritesheet_23
+  - first:
+      213: -1474610569030196139
+    second: RESIZE_lightbeamspritesheet_24
+  - first:
+      213: -6211164321661852975
+    second: RESIZE_lightbeamspritesheet_25
+  - first:
+      213: -7344424485558400306
+    second: RESIZE_lightbeamspritesheet_26
+  - first:
+      213: 4256120195948058093
+    second: RESIZE_lightbeamspritesheet_27
+  - first:
+      213: -6025702590186067566
+    second: RESIZE_lightbeamspritesheet_28
+  - first:
+      213: 8685461195443905865
+    second: RESIZE_lightbeamspritesheet_29
+  - first:
+      213: 7861718400974865889
+    second: RESIZE_lightbeamspritesheet_30
+  - first:
+      213: -1351433665273516690
+    second: RESIZE_lightbeamspritesheet_31
+  - first:
+      213: 5377793794820716766
+    second: RESIZE_lightbeamspritesheet_32
+  - first:
+      213: 1148122144672264020
+    second: RESIZE_lightbeamspritesheet_33
+  - first:
+      213: 4564392448413497678
+    second: RESIZE_lightbeamspritesheet_34
+  - first:
+      213: -5058969861852739065
+    second: RESIZE_lightbeamspritesheet_35
+  - first:
+      213: -7623399551513214345
+    second: RESIZE_lightbeamspritesheet_36
+  - first:
+      213: 3014355929743942723
+    second: RESIZE_lightbeamspritesheet_37
+  - first:
+      213: 8783375190945794620
+    second: RESIZE_lightbeamspritesheet_38
+  - first:
+      213: -8802213959284667909
+    second: RESIZE_lightbeamspritesheet_39
+  - first:
+      213: 6833199660077625595
+    second: RESIZE_lightbeamspritesheet_40
+  - first:
+      213: -1234026985035233537
+    second: RESIZE_lightbeamspritesheet_41
+  - first:
+      213: 6744400743529487022
+    second: RESIZE_lightbeamspritesheet_42
+  - first:
+      213: -6305411553770331975
+    second: RESIZE_lightbeamspritesheet_43
+  - first:
+      213: -4027778589017335835
+    second: RESIZE_lightbeamspritesheet_44
+  - first:
+      213: -5202722141873343009
+    second: RESIZE_lightbeamspritesheet_45
+  - first:
+      213: -1013050846035202897
+    second: RESIZE_lightbeamspritesheet_46
+  - first:
+      213: -1292194088792865376
+    second: RESIZE_lightbeamspritesheet_47
+  - first:
+      213: -1803525211122027924
+    second: RESIZE_lightbeamspritesheet_48
+  - first:
+      213: 1312548126795330122
+    second: RESIZE_lightbeamspritesheet_49
+  - first:
+      213: -8325750492034502221
+    second: RESIZE_lightbeamspritesheet_50
+  - first:
+      213: 2409691487247315506
+    second: RESIZE_lightbeamspritesheet_51
+  - first:
+      213: 7287928072319028476
+    second: RESIZE_lightbeamspritesheet_52
+  - first:
+      213: 3057217236936296328
+    second: RESIZE_lightbeamspritesheet_53
+  - first:
+      213: 4510385853015890460
+    second: RESIZE_lightbeamspritesheet_54
+  - first:
+      213: 8558748120450289348
+    second: RESIZE_lightbeamspritesheet_55
+  - first:
+      213: -4002491003184127977
+    second: RESIZE_lightbeamspritesheet_56
+  - first:
+      213: 2255916781654114363
+    second: RESIZE_lightbeamspritesheet_57
+  - first:
+      213: 70157004616970162
+    second: RESIZE_lightbeamspritesheet_58
+  - first:
+      213: 4673216250311053035
+    second: RESIZE_lightbeamspritesheet_59
+  - first:
+      213: -4689769778921273055
+    second: RESIZE_lightbeamspritesheet_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 67
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68619894f632b350800000000000000
+      internalID: 6030943275162101869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 5400
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981a506ab743b1180800000000000000
+      internalID: -9143656912774651511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 5400
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b603bac5642ebf10800000000000000
+      internalID: 2287305680361817783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5400
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8facb0b793b39cef0800000000000000
+      internalID: -87473599693468936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5040
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd778c829fcc1890800000000000000
+      internalID: -7485880252266742322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 5040
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3107a75434a2d00800000000000000
+      internalID: 948644637200880577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 5040
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14644e2e2f258a1d0800000000000000
+      internalID: -3339327920553048511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5040
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356b6aca5579c4230800000000000000
+      internalID: 3624438194351027795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4680
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cb2a7a9958eec00800000000000000
+      internalID: 931829067901221902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 4680
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff8695e33c974d20800000000000000
+      internalID: 3262748201762328566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4680
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d6dd1f24ecbb150800000000000000
+      internalID: 5889527724638039330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4680
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ab8d8801b39df20800000000000000
+      internalID: 3447851931930245674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0d6a6801a0bf9b0800000000000000
+      internalID: -5045427891443674908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 4320
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fdc97090b9e8580800000000000000
+      internalID: -8822944156887490756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4320
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5439fa7b0621a110800000000000000
+      internalID: 1270338400644838491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4320
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35c3cb2c39756a60800000000000000
+      internalID: 7666667240007386429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b29c9ed96891ef40800000000000000
+      internalID: 5756049379229995700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f8c49368173aa10800000000000000
+      internalID: 1919502687490838366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05b0d8742a0cc0f0800000000000000
+      internalID: -1095489457595828980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3960
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b18199ddaba88d0800000000000000
+      internalID: -2843254753812014237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf8505a1f3ef6140800000000000000
+      internalID: 4715237961875427270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e201e1fbc2b720e50800000000000000
+      internalID: 6774112221633843246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d9882789fd55770800000000000000
+      internalID: 8599024909383409038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3600
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a2586fb5fa91b70800000000000000
+      internalID: 8870313750595709572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5542be21081298be0800000000000000
+      internalID: -1474610569030196139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2e3c525f28dc9a0800000000000000
+      internalID: -6211164321661852975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca4c92c7dc531a90800000000000000
+      internalID: -7344424485558400306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3240
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de599d0b4c6c01b30800000000000000
+      internalID: 4256120195948058093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299eec57b67606ca0800000000000000
+      internalID: -6025702590186067566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945afd090f4f88870800000000000000
+      internalID: 8685461195443905865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e542468b3f6a1d60800000000000000
+      internalID: 7861718400974865889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2880
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d2edbdd3ebe3de0800000000000000
+      internalID: -1351433665273516690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8b69fa6f2c1aa40800000000000000
+      internalID: 5377793794820716766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f23ffe103feef00800000000000000
+      internalID: 1148122144672264020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e497927afbaf75f30800000000000000
+      internalID: 4564392448413497678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a4cd6d6bdeac9b0800000000000000
+      internalID: -5058969861852739065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772ce279f7e343690800000000000000
+      internalID: -7623399551513214345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344eaf25fb425d920800000000000000
+      internalID: 3014355929743942723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a8d492331d4e970800000000000000
+      internalID: 8783375190945794620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf94ad74a0148d580800000000000000
+      internalID: -8802213959284667909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf03f3213e664de50800000000000000
+      internalID: 6833199660077625595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff68ab9cefadfdee0800000000000000
+      internalID: -1234026985035233537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa94fc2ebce89d50800000000000000
+      internalID: 6744400743529487022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b020ee699dae78a0800000000000000
+      internalID: -6305411553770331975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e792bf96b47a18c0800000000000000
+      internalID: -4027778589017335835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd57494f6c73cc7b0800000000000000
+      internalID: -5202722141873343009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faca9a67f9be0f1f0800000000000000
+      internalID: -1013050846035202897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a544a49254311ee0800000000000000
+      internalID: -1292194088792865376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c623c9f306798f6e0800000000000000
+      internalID: -1803525211122027924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a427d30319b173210800000000000000
+      internalID: 1312548126795330122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1ffb90a0ef47c80800000000000000
+      internalID: -8325750492034502221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232b8abf3a1f07120800000000000000
+      internalID: 2409691487247315506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc4c2bf7fbe32560800000000000000
+      internalID: 7287928072319028476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8870ac011ea6d6a20800000000000000
+      internalID: 3057217236936296328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a95f8490c189e30800000000000000
+      internalID: 4510385853015890460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 720
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce4b71c118c6c670800000000000000
+      internalID: 8558748120450289348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710638283ab4478c0800000000000000
+      internalID: -4002491003184127977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30065d4c50ae4f10800000000000000
+      internalID: 2255916781654114363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf23ba8c6f39f000800000000000000
+      internalID: 70157004616970162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 360
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee8f5e7b699ad040800000000000000
+      internalID: 4673216250311053035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RESIZE_lightbeamspritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 360
+      alignment: 9
+      pivot: {x: 0.05646921, y: 0.5091254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1290909cb379aeeb0800000000000000
+      internalID: -4689769778921273055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6ab7764b083d12146b6d7fbbcf8e3d89
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":16.0},"gridSpriteSize":{"x":640.0,"y":360.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.056469209492206576,"y":0.5091254115104675},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      RESIZE_lightbeamspritesheet_0: 6030943275162101869
+      RESIZE_lightbeamspritesheet_1: -9143656912774651511
+      RESIZE_lightbeamspritesheet_10: 5889527724638039330
+      RESIZE_lightbeamspritesheet_11: 3447851931930245674
+      RESIZE_lightbeamspritesheet_12: -5045427891443674908
+      RESIZE_lightbeamspritesheet_13: -8822944156887490756
+      RESIZE_lightbeamspritesheet_14: 1270338400644838491
+      RESIZE_lightbeamspritesheet_15: 7666667240007386429
+      RESIZE_lightbeamspritesheet_16: 5756049379229995700
+      RESIZE_lightbeamspritesheet_17: 1919502687490838366
+      RESIZE_lightbeamspritesheet_18: -1095489457595828980
+      RESIZE_lightbeamspritesheet_19: -2843254753812014237
+      RESIZE_lightbeamspritesheet_2: 2287305680361817783
+      RESIZE_lightbeamspritesheet_20: 4715237961875427270
+      RESIZE_lightbeamspritesheet_21: 6774112221633843246
+      RESIZE_lightbeamspritesheet_22: 8599024909383409038
+      RESIZE_lightbeamspritesheet_23: 8870313750595709572
+      RESIZE_lightbeamspritesheet_24: -1474610569030196139
+      RESIZE_lightbeamspritesheet_25: -6211164321661852975
+      RESIZE_lightbeamspritesheet_26: -7344424485558400306
+      RESIZE_lightbeamspritesheet_27: 4256120195948058093
+      RESIZE_lightbeamspritesheet_28: -6025702590186067566
+      RESIZE_lightbeamspritesheet_29: 8685461195443905865
+      RESIZE_lightbeamspritesheet_3: -87473599693468936
+      RESIZE_lightbeamspritesheet_30: 7861718400974865889
+      RESIZE_lightbeamspritesheet_31: -1351433665273516690
+      RESIZE_lightbeamspritesheet_32: 5377793794820716766
+      RESIZE_lightbeamspritesheet_33: 1148122144672264020
+      RESIZE_lightbeamspritesheet_34: 4564392448413497678
+      RESIZE_lightbeamspritesheet_35: -5058969861852739065
+      RESIZE_lightbeamspritesheet_36: -7623399551513214345
+      RESIZE_lightbeamspritesheet_37: 3014355929743942723
+      RESIZE_lightbeamspritesheet_38: 8783375190945794620
+      RESIZE_lightbeamspritesheet_39: -8802213959284667909
+      RESIZE_lightbeamspritesheet_4: -7485880252266742322
+      RESIZE_lightbeamspritesheet_40: 6833199660077625595
+      RESIZE_lightbeamspritesheet_41: -1234026985035233537
+      RESIZE_lightbeamspritesheet_42: 6744400743529487022
+      RESIZE_lightbeamspritesheet_43: -6305411553770331975
+      RESIZE_lightbeamspritesheet_44: -4027778589017335835
+      RESIZE_lightbeamspritesheet_45: -5202722141873343009
+      RESIZE_lightbeamspritesheet_46: -1013050846035202897
+      RESIZE_lightbeamspritesheet_47: -1292194088792865376
+      RESIZE_lightbeamspritesheet_48: -1803525211122027924
+      RESIZE_lightbeamspritesheet_49: 1312548126795330122
+      RESIZE_lightbeamspritesheet_5: 948644637200880577
+      RESIZE_lightbeamspritesheet_50: -8325750492034502221
+      RESIZE_lightbeamspritesheet_51: 2409691487247315506
+      RESIZE_lightbeamspritesheet_52: 7287928072319028476
+      RESIZE_lightbeamspritesheet_53: 3057217236936296328
+      RESIZE_lightbeamspritesheet_54: 4510385853015890460
+      RESIZE_lightbeamspritesheet_55: 8558748120450289348
+      RESIZE_lightbeamspritesheet_56: -4002491003184127977
+      RESIZE_lightbeamspritesheet_57: 2255916781654114363
+      RESIZE_lightbeamspritesheet_58: 70157004616970162
+      RESIZE_lightbeamspritesheet_59: 4673216250311053035
+      RESIZE_lightbeamspritesheet_6: -3339327920553048511
+      RESIZE_lightbeamspritesheet_60: -4689769778921273055
+      RESIZE_lightbeamspritesheet_61: 2130643275
+      RESIZE_lightbeamspritesheet_7: 3624438194351027795
+      RESIZE_lightbeamspritesheet_8: 931829067901221902
+      RESIZE_lightbeamspritesheet_9: 3262748201762328566
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
