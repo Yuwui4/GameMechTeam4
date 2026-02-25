@@ -28,6 +28,7 @@ TagManager:
   - Corrupt
   - Wall
   - NavPoint
+  - PlayInvis
   layers:
   - Default
   - TransparentFX
