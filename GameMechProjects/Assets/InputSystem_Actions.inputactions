@@ -131,6 +131,15 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "Spray",
+                    "type": "Button",
+                    "id": "ef4e005d-9eaa-464c-be52-f7e59d5175b6",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -538,6 +547,17 @@
                     "processors": "",
                     "groups": "",
                     "action": "AttackButton4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3f012829-f075-4b5a-a00d-bb9c1f9bbace",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Keyboard&Mouse",
+                    "action": "Spray",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
