@@ -140,6 +140,15 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "RestartLevel",
+                    "type": "Button",
+                    "id": "21bae7e6-b347-4ec7-8306-d621ab1a6921",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -558,6 +567,17 @@
                     "processors": "",
                     "groups": ";Keyboard&Mouse",
                     "action": "Spray",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e7eca19c-15db-400a-8926-fb9238a6df0e",
+                    "path": "<Keyboard>/r",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Keyboard&Mouse",
+                    "action": "RestartLevel",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
