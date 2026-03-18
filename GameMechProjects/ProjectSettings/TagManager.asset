@@ -29,6 +29,7 @@ TagManager:
   - Wall
   - NavPoint
   - PlayInvis
+  - Spike
   layers:
   - Default
   - TransparentFX
