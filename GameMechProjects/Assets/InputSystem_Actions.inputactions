@@ -149,6 +149,24 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "BloodDive",
+                    "type": "Button",
+                    "id": "aa5a1823-294d-4a38-8add-1e2ea9c0cbaa",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "Tap",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "BloodAbsorb",
+                    "type": "PassThrough",
+                    "id": "7312a699-5813-4138-9db2-4d1936886685",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Hold(pressPoint=1)",
+                    "initialStateCheck": true
                 }
             ],
             "bindings": [
@@ -578,6 +596,28 @@
                     "processors": "",
                     "groups": ";Keyboard&Mouse",
                     "action": "RestartLevel",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "efb3b200-2df6-4ac6-aff4-88c71948483a",
+                    "path": "<Keyboard>/q",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "BloodDive",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "87e84e09-46a7-4b0b-b73a-aaf5cc4d47ea",
+                    "path": "<Keyboard>/q",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "BloodAbsorb",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

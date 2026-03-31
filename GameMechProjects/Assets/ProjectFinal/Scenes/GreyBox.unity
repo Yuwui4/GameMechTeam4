@@ -15815,6 +15815,7 @@ GameObject:
   - component: {fileID: 1314123033}
   - component: {fileID: 1314123038}
   - component: {fileID: 1314123039}
+  - component: {fileID: 1314123040}
   - component: {fileID: 1314123037}
   m_Layer: 8
   m_Name: Player
@@ -16027,6 +16028,22 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: beed2c2eab95fbb41a6311af95a9c1b1, type: 2}
+--- !u!114 &1314123040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1314123029}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.VisualScripting.Flow::Unity.VisualScripting.ScriptMachine
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: d32ce05949e779042bba9e5bc4e458c8, type: 2}
 --- !u!1 &1322091194
 GameObject:
   m_ObjectHideFlags: 0
