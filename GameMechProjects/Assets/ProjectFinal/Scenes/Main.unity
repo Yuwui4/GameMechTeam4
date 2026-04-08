@@ -947,10 +947,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 125260760}
     m_Modifications:
-    - target: {fileID: 1771501742352054074, guid: 4c1766e26e034374bad5bf061407e88b, type: 3}
-      propertyPath: m_SortingOrder
-      value: -2
-      objectReference: {fileID: 0}
     - target: {fileID: 3437349121999016227, guid: 4c1766e26e034374bad5bf061407e88b, type: 3}
       propertyPath: m_LocalPosition.x
       value: -7.1100006
@@ -995,10 +991,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bed Respawner
       objectReference: {fileID: 0}
+    - target: {fileID: 7906483327745809285, guid: 4c1766e26e034374bad5bf061407e88b, type: 3}
+      propertyPath: '_data._objectReferences.Array.data[0]'
+      value: 
+      objectReference: {fileID: 1314123029}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 778853190906783330, guid: 4c1766e26e034374bad5bf061407e88b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
   m_SourcePrefab: {fileID: 100100000, guid: 4c1766e26e034374bad5bf061407e88b, type: 3}
 --- !u!4 &63677237 stripped
 Transform:
@@ -11814,10 +11817,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bed Respawner
       objectReference: {fileID: 0}
+    - target: {fileID: 7906483327745809285, guid: 4c1766e26e034374bad5bf061407e88b, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Player","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7906483327745809285, guid: 4c1766e26e034374bad5bf061407e88b, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7906483327745809285, guid: 4c1766e26e034374bad5bf061407e88b, type: 3}
+      propertyPath: '_data._objectReferences.Array.data[0]'
+      value: 
+      objectReference: {fileID: 1314123029}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 778853190906783330, guid: 4c1766e26e034374bad5bf061407e88b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 0}
   m_SourcePrefab: {fileID: 100100000, guid: 4c1766e26e034374bad5bf061407e88b, type: 3}
 --- !u!4 &1125434398 stripped
 Transform:
@@ -18905,9 +18924,9 @@ GameObject:
   - component: {fileID: 1314123032}
   - component: {fileID: 1314123031}
   - component: {fileID: 1314123035}
+  - component: {fileID: 1314123038}
   - component: {fileID: 1314123034}
   - component: {fileID: 1314123033}
-  - component: {fileID: 1314123038}
   - component: {fileID: 1314123039}
   - component: {fileID: 1314123040}
   - component: {fileID: 1314123037}
@@ -19058,6 +19077,8 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Ability
       Grace","value":{"$content":true,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"StartingRespawnBlood","value":{"$content":30.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Current
+      Respawns Left","value":{"$content":5,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1637371993}
