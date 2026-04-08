@@ -6995,7 +6995,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7482451793477236940, guid: d5a640abc5839246ca32a3ff0546df81, type: 3}
       propertyPath: ShapeModule.radiusThickness
-      value: 1.0000
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7482451793477236940, guid: d5a640abc5839246ca32a3ff0546df81, type: 3}
       propertyPath: InitialModule.startSize.scalar
@@ -19048,7 +19048,7 @@ MonoBehaviour:
       Blood Cost","value":{"$content":10.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Attack
       Damage","value":{"$content":50.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"BloodSprayCost","value":{"$content":30.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"BloodSprayCost","value":{"$content":25.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"WalkSFX","value":{"$content":12,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"HurtSFX","value":{"$content":13,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Low
@@ -19057,6 +19057,7 @@ MonoBehaviour:
       Health Vignette","value":{"$content":14,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Ability
       Grace","value":{"$content":true,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"StartingRespawnBlood","value":{"$content":30.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1637371993}
@@ -23040,11 +23041,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3736246076573779081, guid: 1cdeb867beb54f14191aa1263e1166ab, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.4
+      value: 40.64
       objectReference: {fileID: 0}
     - target: {fileID: 3736246076573779081, guid: 1cdeb867beb54f14191aa1263e1166ab, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.37
+      value: 3.09
       objectReference: {fileID: 0}
     - target: {fileID: 3736246076573779081, guid: 1cdeb867beb54f14191aa1263e1166ab, type: 3}
       propertyPath: m_LocalPosition.z
@@ -23391,8 +23392,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.85, y: 2.29375}
-    newSize: {x: 1, y: 1}
+    oldSize: {x: 1, y: 2.30625}
+    newSize: {x: 1, y: 2.30625}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -23448,12 +23449,12 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: -2
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -7715974382492234226, guid: b583625bb7338c646901fa7c94430474, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b583625bb7338c646901fa7c94430474, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1, y: 2.30625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
