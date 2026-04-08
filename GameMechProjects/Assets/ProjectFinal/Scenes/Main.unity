@@ -17025,6 +17025,88 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!1001 &579336959
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5069160236148531389, guid: d5a640abc5839246ca32a3ff0546df81, type: 3}
+      propertyPath: m_Name
+      value: Blood Spray Long
+      objectReference: {fileID: 0}
+    - target: {fileID: 5309835060880421651, guid: d5a640abc5839246ca32a3ff0546df81, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 5309835060880421651, guid: d5a640abc5839246ca32a3ff0546df81, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5309835060880421651, guid: d5a640abc5839246ca32a3ff0546df81, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5309835060880421651, guid: d5a640abc5839246ca32a3ff0546df81, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5309835060880421651, guid: d5a640abc5839246ca32a3ff0546df81, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5309835060880421651, guid: d5a640abc5839246ca32a3ff0546df81, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5309835060880421651, guid: d5a640abc5839246ca32a3ff0546df81, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5309835060880421651, guid: d5a640abc5839246ca32a3ff0546df81, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5309835060880421651, guid: d5a640abc5839246ca32a3ff0546df81, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5309835060880421651, guid: d5a640abc5839246ca32a3ff0546df81, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7482451793477236940, guid: d5a640abc5839246ca32a3ff0546df81, type: 3}
+      propertyPath: ShapeModule.type
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7482451793477236940, guid: d5a640abc5839246ca32a3ff0546df81, type: 3}
+      propertyPath: VelocityModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7482451793477236940, guid: d5a640abc5839246ca32a3ff0546df81, type: 3}
+      propertyPath: VelocityModule.x.scalar
+      value: 23.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7482451793477236940, guid: d5a640abc5839246ca32a3ff0546df81, type: 3}
+      propertyPath: InitialModule.startSize.scalar
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7482451793477236940, guid: d5a640abc5839246ca32a3ff0546df81, type: 3}
+      propertyPath: InitialModule.startSpeed.minMaxState
+      value: 3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d5a640abc5839246ca32a3ff0546df81, type: 3}
+--- !u!1 &579336960 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5069160236148531389, guid: d5a640abc5839246ca32a3ff0546df81, type: 3}
+  m_PrefabInstance: {fileID: 579336959}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &582388265
 GameObject:
   m_ObjectHideFlags: 0
@@ -28924,7 +29006,7 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1637371993}
-    - {fileID: 1242880076}
+    - {fileID: 579336960}
     - {fileID: 1860212905}
     - {fileID: 8985799279348784477, guid: b11d41153fc490f4fbe62b7a781d3773, type: 3}
     - {fileID: 1542860869}
@@ -54197,3 +54279,4 @@ SceneRoots:
   - {fileID: 1101514694}
   - {fileID: 210251546}
   - {fileID: 1901334390}
+  - {fileID: 579336959}
