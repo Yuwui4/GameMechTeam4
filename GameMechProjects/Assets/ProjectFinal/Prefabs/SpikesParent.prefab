@@ -224,7 +224,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1620168264008517366}
   - component: {fileID: 8267317901106499293}
-  - component: {fileID: 9038625897527410288}
+  - component: {fileID: 3157972931181027654}
   m_Layer: 0
   m_Name: Spikes
   m_TagString: Spike
@@ -285,19 +285,19 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.74, y: 0}
+  m_Offset: {x: -0.7483758, y: -0.06281775}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.68, y: 0.31}
+  m_Size: {x: 1.5124857, y: 0.28487265}
   m_EdgeRadius: 0
---- !u!95 &9038625897527410288
+--- !u!95 &3157972931181027654
 Animator:
   serializedVersion: 7
   m_ObjectHideFlags: 0
@@ -307,7 +307,7 @@ Animator:
   m_GameObject: {fileID: 3385585329145797156}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e85cafeaccce99c4e89b37495f68d8ca, type: 2}
+  m_Controller: {fileID: 9100000, guid: e42ada69d30d7464d8ecb064c9c69bc0, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
