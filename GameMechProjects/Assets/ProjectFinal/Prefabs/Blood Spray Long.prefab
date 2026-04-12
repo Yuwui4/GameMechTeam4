@@ -4055,7 +4055,7 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     minVertexDistance: 0.2
-    textureMode: 1
+    textureMode: 0
     textureScale: {x: 0.01, y: 0.01}
     ribbonCount: 1
     shadowBias: 0.5
