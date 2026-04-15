@@ -473,7 +473,7 @@ MonoBehaviour:
   m_OpenClipOffsetRotation: {x: 0, y: 0, z: 0, w: 1}
   m_Rotation: {x: 0, y: 0, z: 0, w: 1}
   m_ApplyOffsets: 0
---- !u!114 &-480634488710474277
+--- !u!114 &-2219155778105095525
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -485,7 +485,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 030f85c3f73729f4f976f66ffb23b875, type: 3}
   m_Name: AnimationPlayableAsset
   m_EditorClassIdentifier: Unity.Timeline::UnityEngine.Timeline.AnimationPlayableAsset
-  m_Clip: {fileID: 7400000, guid: 96388a84c1740744b9bc32f9f15e2068, type: 2}
+  m_Clip: {fileID: 7400000, guid: fe1a495090aafbb4289342c5569258ff, type: 2}
   m_Position: {x: 0, y: 0, z: 0}
   m_EulerAngles: {x: 0, y: 0, z: 0}
   m_UseTrackMatchFields: 1
@@ -753,10 +753,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 1.1666666666666667
+    m_Start: 1.0166666666666666
     m_ClipIn: 0
-    m_Asset: {fileID: -480634488710474277}
-    m_Duration: 0.8
+    m_Asset: {fileID: -2219155778105095525}
+    m_Duration: 0.2333333333333334
     m_TimeScale: 1
     m_ParentTrack: {fileID: 5447830257410378111}
     m_EaseInDuration: 0
@@ -819,8 +819,8 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 1.1666666666666667
-    m_DisplayName: nurseWorry
+    m_PreExtrapolationTime: 1.0166666666666666
+    m_DisplayName: Nurseflip
   m_Markers:
     m_Objects: []
   m_InfiniteClipPreExtrapolation: 0
