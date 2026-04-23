@@ -33,6 +33,7 @@ TagManager:
   - BloodSplat
   - BloodPlayer
   - BloodBall
+  - Grate
   layers:
   - Default
   - TransparentFX
